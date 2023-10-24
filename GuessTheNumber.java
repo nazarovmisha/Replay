@@ -19,7 +19,7 @@ public class GuessTheNumber {
         int count = 0;
         int remainingAttempts = attempts;
         int hiddenNumber = (int) ((Math.random() * (max - min)) + min);
-        System.out.println(hiddenNumber);
+
         while (count < attempts) {
             count++;
             remainingAttempts--;
