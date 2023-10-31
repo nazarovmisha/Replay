@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="GuessTheNumber">
+      <change afterPath="$PROJECT_DIR$/EmptyBucket.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +58,16 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PrimeNumber">
+  <component name="RunManager" selected="Application.EmptyBucket">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calculator" />
+      <module name="Replay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmptyBucket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmptyBucket" />
       <module name="Replay" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,6 +96,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EmptyBucket" />
         <item itemvalue="Application.PrimeNumber" />
         <item itemvalue="Application.For" />
         <item itemvalue="Application.GuessTheNumber" />
@@ -111,7 +120,7 @@
       <workItem from="1698219910985" duration="185000" />
       <workItem from="1698220175893" duration="810000" />
       <workItem from="1698384924484" duration="726000" />
-      <workItem from="1698738335855" duration="2012000" />
+      <workItem from="1698738335855" duration="2958000" />
     </task>
     <task id="LOCAL-00001" summary="Calculator">
       <option name="closed" value="true" />
@@ -177,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698406556202</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="GuessTheNumber">
+      <option name="closed" value="true" />
+      <created>1698744784359</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1698744784359</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
