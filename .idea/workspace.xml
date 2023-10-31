@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="GuessTheNumber">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/PrimeNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.For">
+  <component name="RunManager" selected="Application.PrimeNumber">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calculator" />
       <module name="Replay" />
@@ -88,8 +88,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.For" />
         <item itemvalue="Application.PrimeNumber" />
+        <item itemvalue="Application.For" />
         <item itemvalue="Application.GuessTheNumber" />
         <item itemvalue="Application.Calculator" />
       </list>
@@ -110,7 +110,8 @@
       <workItem from="1698217254773" duration="684000" />
       <workItem from="1698219910985" duration="185000" />
       <workItem from="1698220175893" duration="810000" />
-      <workItem from="1698384924484" duration="713000" />
+      <workItem from="1698384924484" duration="726000" />
+      <workItem from="1698738335855" duration="2012000" />
     </task>
     <task id="LOCAL-00001" summary="Calculator">
       <option name="closed" value="true" />
@@ -168,7 +169,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698234100250</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="GuessTheNumber">
+      <option name="closed" value="true" />
+      <created>1698406556202</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698406556202</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
