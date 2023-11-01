@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="GuessTheNumber" />
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Solution">
+      <change afterPath="$PROJECT_DIR$/A6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,23 +57,16 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.For">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Calculator" />
+  <component name="RunManager" selected="Application.MultiplicationTable">
+    <configuration name="EmptyBucket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EmptyBucket" />
       <module name="Replay" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="For" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="For" />
-      <module name="Replay" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GuessTheNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GuessTheNumber" />
+    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultiplicationTable" />
       <module name="Replay" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,12 +79,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="Replay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Turtle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Turtle" />
+      <module name="Replay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.For" />
+        <item itemvalue="Application.MultiplicationTable" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Turtle" />
+        <item itemvalue="Application.EmptyBucket" />
         <item itemvalue="Application.PrimeNumber" />
-        <item itemvalue="Application.GuessTheNumber" />
-        <item itemvalue="Application.Calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -108,6 +119,7 @@
       <workItem from="1698219910985" duration="185000" />
       <workItem from="1698220175893" duration="810000" />
       <workItem from="1698384924484" duration="726000" />
+      <workItem from="1698738335855" duration="5616000" />
     </task>
     <task id="LOCAL-00001" summary="Calculator">
       <option name="closed" value="true" />
@@ -173,7 +185,39 @@
       <option name="project" value="LOCAL" />
       <updated>1698406556202</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="GuessTheNumber">
+      <option name="closed" value="true" />
+      <created>1698744784359</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1698744784359</updated>
+    </task>
+    <task id="LOCAL-00010" summary="EmptyBucket">
+      <option name="closed" value="true" />
+      <created>1698745881775</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1698745881775</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Turtle">
+      <option name="closed" value="true" />
+      <created>1698750741333</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1698750741333</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Solution">
+      <option name="closed" value="true" />
+      <created>1698751257588</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1698751257588</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,6 +226,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Calculator" />
     <MESSAGE value="GuessTheNumber" />
-    <option name="LAST_COMMIT_MESSAGE" value="GuessTheNumber" />
+    <MESSAGE value="EmptyBucket" />
+    <MESSAGE value="Turtle" />
+    <MESSAGE value="Solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solution" />
   </component>
 </project>
