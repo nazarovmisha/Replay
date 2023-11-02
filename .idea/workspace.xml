@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Print">
-      <change afterPath="$PROJECT_DIR$/A6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FindMedian.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -61,7 +58,14 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Numbers">
+  <component name="RunManager" selected="Application.FindMedian">
+    <configuration name="FindMedian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindMedian" />
+      <module name="Replay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MultiplicationTable" />
       <module name="Replay" />
@@ -90,20 +94,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Turtle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Turtle" />
-      <module name="Replay" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindMedian" />
         <item itemvalue="Application.Numbers" />
         <item itemvalue="Application.Print" />
         <item itemvalue="Application.MultiplicationTable" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Turtle" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +121,8 @@
       <workItem from="1698220175893" duration="810000" />
       <workItem from="1698384924484" duration="726000" />
       <workItem from="1698738335855" duration="5616000" />
-      <workItem from="1698822915842" duration="1588000" />
+      <workItem from="1698822915842" duration="1757000" />
+      <workItem from="1698910619557" duration="2123000" />
     </task>
     <task id="LOCAL-00001" summary="Calculator">
       <option name="closed" value="true" />
@@ -222,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698751257588</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Print">
+      <option name="closed" value="true" />
+      <created>1698835423142</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1698835423142</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
