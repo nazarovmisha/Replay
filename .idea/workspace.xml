@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Years">
-      <change afterPath="$PROJECT_DIR$/Signal.java" afterDir="false" />
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Signal">
+      <change afterPath="$PROJECT_DIR$/NumberToWorld.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +57,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Signal">
+  <component name="RunManager" selected="Application.NumberToWorld">
     <configuration name="Cube" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Cube" />
       <module name="Replay" />
@@ -72,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsPow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IsPow" />
+    <configuration name="NumberToWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberToWorld" />
       <module name="Replay" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NumberToWorld" />
         <item itemvalue="Application.Signal" />
         <item itemvalue="Application.Years" />
         <item itemvalue="Application.FindFactorial" />
         <item itemvalue="Application.Cube" />
-        <item itemvalue="Application.IsPow" />
       </list>
     </recent_temporary>
   </component>
@@ -122,7 +122,7 @@
       <workItem from="1698738335855" duration="5616000" />
       <workItem from="1698822915842" duration="1757000" />
       <workItem from="1698910619557" duration="7811000" />
-      <workItem from="1698993541113" duration="5756000" />
+      <workItem from="1698993541113" duration="6703000" />
     </task>
     <task id="LOCAL-00001" summary="Calculator">
       <option name="closed" value="true" />
@@ -276,7 +276,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699005355901</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Signal">
+      <option name="closed" value="true" />
+      <created>1699006444260</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1699006444260</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -296,6 +304,7 @@
     <MESSAGE value="IsPow" />
     <MESSAGE value="Cube" />
     <MESSAGE value="Years" />
-    <option name="LAST_COMMIT_MESSAGE" value="Years" />
+    <MESSAGE value="Signal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Signal" />
   </component>
 </project>
