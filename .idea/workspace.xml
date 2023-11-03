@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Is">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IsPow.java" beforeDir="false" afterPath="$PROJECT_DIR$/IsPow.java" afterDir="false" />
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="IsPow">
+      <change afterPath="$PROJECT_DIR$/Cube.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,14 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.IsPow">
+  <component name="RunManager" selected="Application.Cube">
+    <configuration name="Cube" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cube" />
+      <module name="Replay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FindMedian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindMedian" />
       <module name="Replay" />
@@ -79,13 +86,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Print" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Print" />
-      <module name="Replay" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PrintRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PrintRectangle" />
       <module name="Replay" />
@@ -95,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cube" />
         <item itemvalue="Application.IsPow" />
         <item itemvalue="Application.PrintRectangle" />
         <item itemvalue="Application.FindMedian" />
         <item itemvalue="Application.Numbers" />
-        <item itemvalue="Application.Print" />
       </list>
     </recent_temporary>
   </component>
@@ -122,7 +122,7 @@
       <workItem from="1698738335855" duration="5616000" />
       <workItem from="1698822915842" duration="1757000" />
       <workItem from="1698910619557" duration="7811000" />
-      <workItem from="1698993541113" duration="698000" />
+      <workItem from="1698993541113" duration="1002000" />
     </task>
     <task id="LOCAL-00001" summary="Calculator">
       <option name="closed" value="true" />
@@ -252,7 +252,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698926033644</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="IsPow">
+      <option name="closed" value="true" />
+      <created>1698994390722</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1698994390722</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,6 +277,7 @@
     <MESSAGE value="FindMedian" />
     <MESSAGE value="PrintRectangle" />
     <MESSAGE value="Is" />
-    <option name="LAST_COMMIT_MESSAGE" value="Is" />
+    <MESSAGE value="IsPow" />
+    <option name="LAST_COMMIT_MESSAGE" value="IsPow" />
   </component>
 </project>

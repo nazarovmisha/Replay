@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Print">
-      <change afterPath="$PROJECT_DIR$/FindMedian.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Is" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +54,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FindMedian">
+  <component name="RunManager" selected="Application.IsPow">
     <configuration name="FindMedian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FindMedian" />
       <module name="Replay" />
@@ -65,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MultiplicationTable" />
+    <configuration name="IsPow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IsPow" />
       <module name="Replay" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution" />
+    <configuration name="PrintRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrintRectangle" />
       <module name="Replay" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsPow" />
+        <item itemvalue="Application.PrintRectangle" />
         <item itemvalue="Application.FindMedian" />
         <item itemvalue="Application.Numbers" />
         <item itemvalue="Application.Print" />
-        <item itemvalue="Application.MultiplicationTable" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +118,7 @@
       <workItem from="1698384924484" duration="726000" />
       <workItem from="1698738335855" duration="5616000" />
       <workItem from="1698822915842" duration="1757000" />
-      <workItem from="1698910619557" duration="303000" />
+      <workItem from="1698910619557" duration="7811000" />
     </task>
     <task id="LOCAL-00001" summary="Calculator">
       <option name="closed" value="true" />
@@ -227,7 +224,31 @@
       <option name="project" value="LOCAL" />
       <updated>1698835423142</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="FindMedian">
+      <option name="closed" value="true" />
+      <created>1698914529447</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1698914529447</updated>
+    </task>
+    <task id="LOCAL-00015" summary="PrintRectangle">
+      <option name="closed" value="true" />
+      <created>1698924909790</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1698924909790</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Is">
+      <option name="closed" value="true" />
+      <created>1698926033644</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1698926033644</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,6 +262,9 @@
     <MESSAGE value="Solution" />
     <MESSAGE value="MultiplicationTable" />
     <MESSAGE value="Print" />
-    <option name="LAST_COMMIT_MESSAGE" value="Print" />
+    <MESSAGE value="FindMedian" />
+    <MESSAGE value="PrintRectangle" />
+    <MESSAGE value="Is" />
+    <option name="LAST_COMMIT_MESSAGE" value="Is" />
   </component>
 </project>
