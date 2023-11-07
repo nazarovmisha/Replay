@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="DrawRectangle">
-      <change afterPath="$PROJECT_DIR$/Name.java" afterDir="false" />
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Name">
+      <change afterPath="$PROJECT_DIR$/CheckName.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +57,14 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Name">
+  <component name="RunManager" selected="Application.CheckName">
+    <configuration name="CheckName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckName" />
+      <module name="Replay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DrawRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DrawRectangle" />
       <module name="Replay" />
@@ -67,13 +74,6 @@
     </configuration>
     <configuration name="Name" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Name" />
-      <module name="Replay" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NumberToWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberToWorld" />
       <module name="Replay" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckName" />
         <item itemvalue="Application.Name" />
         <item itemvalue="Application.DrawRectangle" />
         <item itemvalue="Application.Table" />
         <item itemvalue="Application.SyracuseSequence" />
-        <item itemvalue="Application.NumberToWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -123,7 +123,7 @@
       <workItem from="1698822915842" duration="1757000" />
       <workItem from="1698910619557" duration="7811000" />
       <workItem from="1698993541113" duration="6762000" />
-      <workItem from="1699340378903" duration="6686000" />
+      <workItem from="1699340378903" duration="9122000" />
     </task>
     <task id="LOCAL-00001" summary="Calculator">
       <option name="closed" value="true" />
@@ -309,7 +309,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699348651124</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Name">
+      <option name="closed" value="true" />
+      <created>1699353181960</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1699353181960</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -333,6 +341,7 @@
     <MESSAGE value="NumberToWorld" />
     <MESSAGE value="Table" />
     <MESSAGE value="DrawRectangle" />
-    <option name="LAST_COMMIT_MESSAGE" value="DrawRectangle" />
+    <MESSAGE value="Name" />
+    <option name="LAST_COMMIT_MESSAGE" value="Name" />
   </component>
 </project>
