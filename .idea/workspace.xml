@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="NumberToWorld">
-      <change afterPath="$PROJECT_DIR$/SyracuseSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Table.java" afterDir="false" />
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Table">
+      <change afterPath="$PROJECT_DIR$/DrawRectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +57,14 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Table">
+  <component name="RunManager" selected="Application.DrawRectangle">
+    <configuration name="DrawRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DrawRectangle" />
+      <module name="Replay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NumberToWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NumberToWorld" />
       <module name="Replay" />
@@ -88,20 +93,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Years" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Years" />
-      <module name="Replay" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DrawRectangle" />
         <item itemvalue="Application.Table" />
         <item itemvalue="Application.SyracuseSequence" />
         <item itemvalue="Application.NumberToWorld" />
         <item itemvalue="Application.Signal" />
-        <item itemvalue="Application.Years" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +123,7 @@
       <workItem from="1698822915842" duration="1757000" />
       <workItem from="1698910619557" duration="7811000" />
       <workItem from="1698993541113" duration="6762000" />
-      <workItem from="1699340378903" duration="2630000" />
+      <workItem from="1699340378903" duration="5120000" />
     </task>
     <task id="LOCAL-00001" summary="Calculator">
       <option name="closed" value="true" />
@@ -295,7 +293,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699007226255</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Table">
+      <option name="closed" value="true" />
+      <created>1699343359692</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1699343359692</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,6 +323,7 @@
     <MESSAGE value="Years" />
     <MESSAGE value="Signal" />
     <MESSAGE value="NumberToWorld" />
-    <option name="LAST_COMMIT_MESSAGE" value="NumberToWorld" />
+    <MESSAGE value="Table" />
+    <option name="LAST_COMMIT_MESSAGE" value="Table" />
   </component>
 </project>
