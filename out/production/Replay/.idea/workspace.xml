@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="CheckName">
-      <change afterPath="$PROJECT_DIR$/Control.java" afterDir="false" />
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="BookStore">
+      <change afterPath="$PROJECT_DIR$/BookStore/Book.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BookStore/BookStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/BookStore/BookStore.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +58,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Control">
+  <component name="RunManager" selected="Application.BookStore">
+    <configuration name="BookStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BookStore.BookStore" />
+      <module name="Replay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BookStore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CheckName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CheckName" />
       <module name="Replay" />
@@ -86,20 +100,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Table" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Table" />
-      <module name="Replay" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BookStore" />
         <item itemvalue="Application.Control" />
         <item itemvalue="Application.CheckName" />
         <item itemvalue="Application.Name" />
         <item itemvalue="Application.DrawRectangle" />
-        <item itemvalue="Application.Table" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +131,8 @@
       <workItem from="1698910619557" duration="7811000" />
       <workItem from="1698993541113" duration="6762000" />
       <workItem from="1699340378903" duration="9211000" />
-      <workItem from="1699428878281" duration="1932000" />
+      <workItem from="1699428878281" duration="3033000" />
+      <workItem from="1699515457199" duration="2893000" />
     </task>
     <task id="LOCAL-00001" summary="Calculator">
       <option name="closed" value="true" />
@@ -326,7 +334,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699357542317</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Control">
+      <option name="closed" value="true" />
+      <created>1699441711218</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1699441711218</updated>
+    </task>
+    <task id="LOCAL-00027" summary="BookStore">
+      <option name="closed" value="true" />
+      <created>1699443886592</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1699443886592</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -352,6 +376,8 @@
     <MESSAGE value="DrawRectangle" />
     <MESSAGE value="Name" />
     <MESSAGE value="CheckName" />
-    <option name="LAST_COMMIT_MESSAGE" value="CheckName" />
+    <MESSAGE value="Control" />
+    <MESSAGE value="BookStore" />
+    <option name="LAST_COMMIT_MESSAGE" value="BookStore" />
   </component>
 </project>
