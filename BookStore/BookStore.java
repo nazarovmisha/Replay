@@ -3,7 +3,7 @@ package BookStore;
 public class BookStore {
     public static void main(String[] args) {
 
-        Book[] books = new Book[2];
+        Book[] books = new Book[5];
         Book book = new Book();
         book.setName("Hobbit");
         book.setYear(1985);
@@ -28,6 +28,12 @@ public class BookStore {
         book3.setName("Fool");
         addBook(books, book3);
 
+         Book book4= new Book();
+         book4.setName("Geografiya");
+         book4.setYear(2009);
+         book4.setBookPrice(220);
+         addBook(books,book4);
+
         printAllBooks(books);
     }
 
@@ -45,24 +51,26 @@ public class BookStore {
     public static void addBook(Book[] books, Book book) {
         if (checkBook(books, book)) {
             for (int i = 0; i < books.length; i++) {
-                books[i] = book;
-                System.out.println("Книга успешно добалена");
-                break;
+                if (books[i] == null) {
+                    books[i] = book;
+                    System.out.println("Книга успешно добалена");
+                    break;
+                }
+                if (i == books.length - 1) {
+                    System.out.println("Картотека переполнена");
+                }
             }
         }
     }
 
     public static void printAllBooks(Book[] books) {
+
         for (int i = 0; i < books.length; i++) {
             if (books[i] != null) {
-                System.out.println(books[i].getName() + books[i].getYear() + books[i].getYear());
+                System.out.printf("книга №%d: название: \"%s\", год издания: %dг., цена - %dusd \n",
+                        i + 1, books[i].getName(), books[i].getYear(), books[i].getBookPrice());
             }
-
-
         }
-        System.out.println("книг нет!!!");
-
-
     }
-
 }
+
