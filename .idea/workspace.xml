@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="ForNumbers">
-      <change afterPath="$PROJECT_DIR$/Fibanacci.java" afterDir="false" />
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Fibanacci">
+      <change afterPath="$PROJECT_DIR$/Nth.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +57,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Fibanacci">
+  <component name="RunManager" selected="Application.Nth">
     <configuration name="BookStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BookStore.BookStore" />
       <module name="Replay" />
@@ -67,13 +67,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CheckName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CheckName" />
-      <module name="Replay" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -99,13 +92,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Nth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Nth" />
+      <module name="Replay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Nth" />
         <item itemvalue="Application.Fibanacci" />
         <item itemvalue="Application.ForNumbers" />
         <item itemvalue="Application.BookStore" />
         <item itemvalue="Application.Control" />
-        <item itemvalue="Application.CheckName" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +132,7 @@
       <workItem from="1699340378903" duration="9211000" />
       <workItem from="1699428878281" duration="3033000" />
       <workItem from="1699515457199" duration="3873000" />
-      <workItem from="1699867511800" duration="3114000" />
+      <workItem from="1699867511800" duration="4175000" />
     </task>
     <task id="LOCAL-00001" summary="Calculator">
       <option name="closed" value="true" />
@@ -374,7 +374,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699871803160</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Fibanacci">
+      <option name="closed" value="true" />
+      <created>1699874158398</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1699874158398</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -403,6 +411,7 @@
     <MESSAGE value="Control" />
     <MESSAGE value="BookStore" />
     <MESSAGE value="ForNumbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="ForNumbers" />
+    <MESSAGE value="Fibanacci" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fibanacci" />
   </component>
 </project>
