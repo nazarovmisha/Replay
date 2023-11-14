@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="HelloWorld">
-      <change afterPath="$PROJECT_DIR$/Tank/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tank/Tank.java" afterDir="false" />
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Tank">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tank/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tank/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tank/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tank/Tank.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +134,7 @@
       <workItem from="1699428878281" duration="3033000" />
       <workItem from="1699515457199" duration="3873000" />
       <workItem from="1699867511800" duration="4367000" />
-      <workItem from="1699944158946" duration="3825000" />
+      <workItem from="1699944158946" duration="5092000" />
     </task>
     <task id="LOCAL-00001" summary="Calculator">
       <option name="closed" value="true" />
@@ -400,14 +400,21 @@
       <option name="project" value="LOCAL" />
       <updated>1699945129291</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Tank">
+      <option name="closed" value="true" />
+      <created>1699954132412</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1699954132412</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Calculator" />
     <MESSAGE value="GuessTheNumber" />
     <MESSAGE value="EmptyBucket" />
     <MESSAGE value="Turtle" />
@@ -432,6 +439,7 @@
     <MESSAGE value="Fibanacci" />
     <MESSAGE value="Nht" />
     <MESSAGE value="HelloWorld" />
-    <option name="LAST_COMMIT_MESSAGE" value="HelloWorld" />
+    <MESSAGE value="Tank" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tank" />
   </component>
 </project>
