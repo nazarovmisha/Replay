@@ -7,6 +7,7 @@
     <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Tank">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tank/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tank/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tank/Tank.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tank/Tank.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +134,8 @@
       <workItem from="1699428878281" duration="3033000" />
       <workItem from="1699515457199" duration="3873000" />
       <workItem from="1699867511800" duration="4367000" />
-      <workItem from="1699944158946" duration="9646000" />
+      <workItem from="1699944158946" duration="9659000" />
+      <workItem from="1700033469580" duration="2079000" />
     </task>
     <task id="LOCAL-00001" summary="Calculator">
       <option name="closed" value="true" />
@@ -423,7 +425,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699957997001</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Tank">
+      <option name="closed" value="true" />
+      <created>1699962431509</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1699962431509</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

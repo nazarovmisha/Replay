@@ -1,14 +1,19 @@
 package Tank;
 
 public class Tank {
-    int positionY;
-    int positionX;
-    int fuel;
-    static int reverse = 0;
+
+    private static final String MODEL = "T-34";
+    private int positionY;
+    private int positionX;
+    private int fuel;
+    private static int count;
+    private int n;
+    private static int reverse = 0;
 
 
     public Tank() {
         this(0, 0, 100);
+
     }
 
     public Tank(int positionY, int positionX) {
@@ -19,6 +24,7 @@ public class Tank {
         this.positionY = positionY;
         this.positionX = positionX;
         this.fuel = fuel;
+        n = ++count;
     }
 
 
@@ -38,11 +44,11 @@ public class Tank {
     }
 
     public void printPosition() {
-        System.out.println("The Tank is at " + positionY + "," + positionX + " now.");
+        System.out.println("The Tank" + MODEL + "-" + n + " is at " + positionY + "," + positionX + " now.");
     }
 
     public void goBackward(int x) {
-        x=Math.abs(x);
+        x = Math.abs(x);
         goForward(-x);
     }
 
@@ -65,5 +71,32 @@ public class Tank {
         if (reverse == -1) {
             reverse = 3;
         }
+    }
+
+    public int getPositionY() {
+        return positionY;
+    }
+
+    public Tank setPositionY(int positionY) {
+        this.positionY = positionY;
+        return this;
+    }
+
+    public int getPositionX() {
+        return positionX;
+    }
+
+    public Tank setPositionX(int positionX) {
+        this.positionX = positionX;
+        return this;
+    }
+
+    public int getFuel() {
+        return fuel;
+    }
+
+    public Tank setFuel(int fuel) {
+        this.fuel = fuel;
+        return this;
     }
 }
