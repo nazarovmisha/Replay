@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Tank">
-      <change afterPath="$PROJECT_DIR$/TextCleaner.java" afterDir="false" />
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="TextCleaner">
+      <change afterPath="$PROJECT_DIR$/Replace.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,14 +58,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TextCleaner">
-    <configuration name="Fibanacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fibanacci" />
-      <module name="Replay" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Replace">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="Replay" />
@@ -92,6 +86,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Replace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Replace" />
+      <module name="Replay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TextCleaner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TextCleaner" />
       <module name="Replay" />
@@ -101,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Replace" />
         <item itemvalue="Application.TextCleaner" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.Nth" />
-        <item itemvalue="Application.Fibanacci" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +137,7 @@
       <workItem from="1699944158946" duration="9659000" />
       <workItem from="1700033469580" duration="2648000" />
       <workItem from="1700120563216" duration="765000" />
-      <workItem from="1700205039034" duration="1112000" />
+      <workItem from="1700205039034" duration="2104000" />
     </task>
     <task id="LOCAL-00001" summary="Calculator">
       <option name="closed" value="true" />
@@ -450,14 +451,21 @@
       <option name="project" value="LOCAL" />
       <updated>1700135546850</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="TextCleaner">
+      <option name="closed" value="true" />
+      <created>1700207655394</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1700207655394</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="GuessTheNumber" />
     <MESSAGE value="EmptyBucket" />
     <MESSAGE value="Turtle" />
     <MESSAGE value="Solution" />
@@ -482,6 +490,7 @@
     <MESSAGE value="Nht" />
     <MESSAGE value="HelloWorld" />
     <MESSAGE value="Tank" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tank" />
+    <MESSAGE value="TextCleaner" />
+    <option name="LAST_COMMIT_MESSAGE" value="TextCleaner" />
   </component>
 </project>
