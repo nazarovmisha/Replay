@@ -3,8 +3,6 @@ import java.util.regex.Pattern;
 
 public class Replace {
     public static void main(String[] args) {
-
-
         String text = "Иван Петров";
         Pattern pattern = Pattern.compile("(.*) (.*)");
         Matcher matcher = pattern.matcher(text);
