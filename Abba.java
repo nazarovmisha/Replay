@@ -6,6 +6,8 @@ public class Abba {
         String text = "aba aba a!a abba adca abea";
         Pattern pattern = Pattern.compile("[a..a]");
         Matcher matcher = pattern.matcher(text);
-
+        while (matcher.find()) {
+            System.out.println(matcher.group());
         }
     }
+}
