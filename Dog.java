@@ -7,7 +7,25 @@ public class Dog {
         this.age = age;
     }
 
-    public void bark() {
-        System.out.println("Woof");
+    public String  bark() {
+      return   "woof";
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public Dog setName(String name) {
+        this.name = name;
+        return this;
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public Dog setAge(int age) {
+        this.age = age;
+        return this;
     }
 }
