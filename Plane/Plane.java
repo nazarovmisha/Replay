@@ -72,11 +72,12 @@ public class Plane {
 
         } else x -= distance;
         z += up;
+        System.out.println("Вы поднялись ввысь и сейчас находитесь на координатах: x=" + y + ", y=" + x + ", z=" + z + ". Топлива осталось=" + fuel);
     }
 
     public void dropBombs() {
         bombs--;
-        System.out.println("Самолет сбросил бомбы по координатам x=" + x + ", y=" + y + "Кол-во бомб=" + bombs);
+        System.out.println("Самолет сбросил бомбы по координатам x=" + y + ", y=" + x + "Кол-во бомб=" + bombs);
     }
 
     public void flyDown(int up, int distance) {
@@ -100,15 +101,18 @@ public class Plane {
 
         } else x -= distance;
         z -= up;
-        if (up <= 0) {
+        if (z <= 0) {
             System.out.println("Вы приземлились");
         }
     }
 
     public void fillFuel() {
-        if (z >= 0) {
+        if (z > 0) {
             System.out.println("Нельзя заправляться в воздухе");
-        } else fuel = 100;
+        } else if (z <= 0) {
+            fuel = 500;
+            System.out.println("Вы заправились, остаток топлива =" + fuel);
+        }
     }
 
 }

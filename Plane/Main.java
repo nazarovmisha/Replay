@@ -2,8 +2,9 @@ package Plane;
 
 public class Main {
     public static void main(String[] args) {
-        Plane plane = new Plane(1,0,0,100,5);
+        Plane plane = new Plane(1,0,100,500,5);
         plane.flyStraight(50);
+        plane.fillFuel();
         plane.flyUp(80, 90);
         plane.turnRight();
         plane.flyStraight(30);
