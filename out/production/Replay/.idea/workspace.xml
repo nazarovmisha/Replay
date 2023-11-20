@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Tank">
-      <change afterPath="$PROJECT_DIR$/TextCleaner.java" afterDir="false" />
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Plane">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,34 +56,27 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Fibanacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fibanacci" />
+  <component name="RunManager" selected="Application.Plane.Main">
+    <configuration name="Abba" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Abba" />
       <module name="Replay" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ForNumbers" />
+    <configuration name="MarkTheTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MarkTheTime" />
       <module name="Replay" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
-      <module name="Replay" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tank.Main" />
+    <configuration name="Plane.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Plane.Main" />
       <module name="Replay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tank.*" />
+          <option name="PATTERN" value="Plane.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,8 +84,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Nth" />
+    <configuration name="Replace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Replace" />
+      <module name="Replay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextCleaner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TextCleaner" />
       <module name="Replay" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.Nth" />
-        <item itemvalue="Application.Fibanacci" />
-        <item itemvalue="Application.ForNumbers" />
+        <item itemvalue="Application.Plane.Main" />
+        <item itemvalue="Application.Abba" />
+        <item itemvalue="Application.MarkTheTime" />
+        <item itemvalue="Application.Replace" />
+        <item itemvalue="Application.TextCleaner" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +135,8 @@
       <workItem from="1699944158946" duration="9659000" />
       <workItem from="1700033469580" duration="2648000" />
       <workItem from="1700120563216" duration="765000" />
-      <workItem from="1700205039034" duration="295000" />
+      <workItem from="1700205039034" duration="7972000" />
+      <workItem from="1700473113360" duration="732000" />
     </task>
     <task id="LOCAL-00001" summary="Calculator">
       <option name="closed" value="true" />
@@ -450,17 +450,45 @@
       <option name="project" value="LOCAL" />
       <updated>1700135546850</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="TextCleaner">
+      <option name="closed" value="true" />
+      <created>1700207655394</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1700207655394</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Replace">
+      <option name="closed" value="true" />
+      <created>1700209143390</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1700209143390</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Abba">
+      <option name="closed" value="true" />
+      <created>1700212112249</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1700212112249</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Plane">
+      <option name="closed" value="true" />
+      <created>1700222004683</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1700222004683</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="GuessTheNumber" />
-    <MESSAGE value="EmptyBucket" />
-    <MESSAGE value="Turtle" />
-    <MESSAGE value="Solution" />
     <MESSAGE value="MultiplicationTable" />
     <MESSAGE value="Print" />
     <MESSAGE value="FindMedian" />
@@ -482,6 +510,10 @@
     <MESSAGE value="Nht" />
     <MESSAGE value="HelloWorld" />
     <MESSAGE value="Tank" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tank" />
+    <MESSAGE value="TextCleaner" />
+    <MESSAGE value="Replace" />
+    <MESSAGE value="Abba" />
+    <MESSAGE value="Plane" />
+    <option name="LAST_COMMIT_MESSAGE" value="Plane" />
   </component>
 </project>

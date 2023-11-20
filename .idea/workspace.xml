@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Plane">
+      <change afterPath="$PROJECT_DIR$/Balance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bell.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plane/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Plane/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plane/Plane.java" beforeDir="false" afterPath="$PROJECT_DIR$/Plane/Plane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,9 +59,16 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Plane.Main">
+  <component name="RunManager" selected="Application.Bell">
     <configuration name="Abba" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Abba" />
+      <module name="Replay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bell" />
       <module name="Replay" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,20 +101,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TextCleaner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TextCleaner" />
-      <module name="Replay" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bell" />
         <item itemvalue="Application.Plane.Main" />
         <item itemvalue="Application.Abba" />
         <item itemvalue="Application.MarkTheTime" />
         <item itemvalue="Application.Replace" />
-        <item itemvalue="Application.TextCleaner" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +139,7 @@
       <workItem from="1700033469580" duration="2648000" />
       <workItem from="1700120563216" duration="765000" />
       <workItem from="1700205039034" duration="7972000" />
-      <workItem from="1700473113360" duration="1400000" />
+      <workItem from="1700473113360" duration="2089000" />
     </task>
     <task id="LOCAL-00001" summary="Calculator">
       <option name="closed" value="true" />
@@ -484,7 +485,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700222004683</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Plane">
+      <option name="closed" value="true" />
+      <created>1700475217589</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1700475217589</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
