@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Plane">
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Human">
+      <change afterPath="$PROJECT_DIR$/Programmer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,16 +57,23 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Plane.Main">
-    <configuration name="Abba" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Abba" />
+  <component name="RunManager" selected="Application.Programmer">
+    <configuration name="Bell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bell" />
       <module name="Replay" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MarkTheTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MarkTheTime" />
+    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dog" />
+      <module name="Replay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Payer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Payer" />
       <module name="Replay" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,15 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Replace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Replace" />
-      <module name="Replay" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TextCleaner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TextCleaner" />
+    <configuration name="Programmer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Programmer" />
       <module name="Replay" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Programmer" />
+        <item itemvalue="Application.Dog" />
+        <item itemvalue="Application.Bell" />
+        <item itemvalue="Application.Payer" />
         <item itemvalue="Application.Plane.Main" />
-        <item itemvalue="Application.Abba" />
-        <item itemvalue="Application.MarkTheTime" />
-        <item itemvalue="Application.Replace" />
-        <item itemvalue="Application.TextCleaner" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +137,8 @@
       <workItem from="1700033469580" duration="2648000" />
       <workItem from="1700120563216" duration="765000" />
       <workItem from="1700205039034" duration="7972000" />
-      <workItem from="1700473113360" duration="732000" />
+      <workItem from="1700473113360" duration="4277000" />
+      <workItem from="1700550599163" duration="2974000" />
     </task>
     <task id="LOCAL-00001" summary="Calculator">
       <option name="closed" value="true" />
@@ -482,17 +484,61 @@
       <option name="project" value="LOCAL" />
       <updated>1700222004683</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Plane">
+      <option name="closed" value="true" />
+      <created>1700475217589</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1700475217589</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Bell">
+      <option name="closed" value="true" />
+      <created>1700476081951</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1700476081951</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Payer">
+      <option name="closed" value="true" />
+      <created>1700480099741</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1700480099741</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Dog">
+      <option name="closed" value="true" />
+      <created>1700480352432</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1700480352432</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Dog">
+      <option name="closed" value="true" />
+      <created>1700480603268</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1700480603268</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Human">
+      <option name="closed" value="true" />
+      <created>1700551360546</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1700551360546</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="MultiplicationTable" />
-    <MESSAGE value="Print" />
-    <MESSAGE value="FindMedian" />
-    <MESSAGE value="PrintRectangle" />
     <MESSAGE value="Is" />
     <MESSAGE value="IsPow" />
     <MESSAGE value="Cube" />
@@ -514,6 +560,10 @@
     <MESSAGE value="Replace" />
     <MESSAGE value="Abba" />
     <MESSAGE value="Plane" />
-    <option name="LAST_COMMIT_MESSAGE" value="Plane" />
+    <MESSAGE value="Bell" />
+    <MESSAGE value="Payer" />
+    <MESSAGE value="Dog" />
+    <MESSAGE value="Human" />
+    <option name="LAST_COMMIT_MESSAGE" value="Human" />
   </component>
 </project>
