@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Payer">
-      <change afterPath="$PROJECT_DIR$/Dog.java" afterDir="false" />
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Dog">
+      <change afterPath="$PROJECT_DIR$/Human.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -137,7 +137,8 @@
       <workItem from="1700033469580" duration="2648000" />
       <workItem from="1700120563216" duration="765000" />
       <workItem from="1700205039034" duration="7972000" />
-      <workItem from="1700473113360" duration="3986000" />
+      <workItem from="1700473113360" duration="4277000" />
+      <workItem from="1700550599163" duration="624000" />
     </task>
     <task id="LOCAL-00001" summary="Calculator">
       <option name="closed" value="true" />
@@ -507,14 +508,29 @@
       <option name="project" value="LOCAL" />
       <updated>1700480099741</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Dog">
+      <option name="closed" value="true" />
+      <created>1700480352432</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1700480352432</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Dog">
+      <option name="closed" value="true" />
+      <created>1700480603268</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1700480603268</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="FindMedian" />
     <MESSAGE value="PrintRectangle" />
     <MESSAGE value="Is" />
     <MESSAGE value="IsPow" />
@@ -539,6 +555,7 @@
     <MESSAGE value="Plane" />
     <MESSAGE value="Bell" />
     <MESSAGE value="Payer" />
-    <option name="LAST_COMMIT_MESSAGE" value="Payer" />
+    <MESSAGE value="Dog" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dog" />
   </component>
 </project>
