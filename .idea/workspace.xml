@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Separator">
-      <change afterPath="$PROJECT_DIR$/ToTable.java" afterDir="false" />
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="ToTable">
+      <change afterPath="$PROJECT_DIR$/Mage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ToTable.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,15 +140,7 @@
       <workItem from="1700205039034" duration="7972000" />
       <workItem from="1700473113360" duration="4277000" />
       <workItem from="1700550599163" duration="4508000" />
-      <workItem from="1700638973532" duration="887000" />
-    </task>
-    <task id="LOCAL-00003" summary="Calculator">
-      <option name="closed" value="true" />
-      <created>1697802139229</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1697802139229</updated>
+      <workItem from="1700638973532" duration="3186000" />
     </task>
     <task id="LOCAL-00004" summary="Calculator">
       <option name="closed" value="true" />
@@ -533,14 +526,21 @@
       <option name="project" value="LOCAL" />
       <updated>1700560626078</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="ToTable">
+      <option name="closed" value="true" />
+      <created>1700641616564</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1700641616565</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Cube" />
     <MESSAGE value="Years" />
     <MESSAGE value="Signal" />
     <MESSAGE value="NumberToWorld" />
@@ -565,6 +565,7 @@
     <MESSAGE value="Human" />
     <MESSAGE value="Programmer" />
     <MESSAGE value="Separator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Separator" />
+    <MESSAGE value="ToTable" />
+    <option name="LAST_COMMIT_MESSAGE" value="ToTable" />
   </component>
 </project>
