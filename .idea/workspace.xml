@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Mage">
-      <change afterPath="$PROJECT_DIR$/TicTacToe.java" afterDir="false" />
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Tic">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,15 +134,8 @@
       <workItem from="1700473113360" duration="4277000" />
       <workItem from="1700550599163" duration="4508000" />
       <workItem from="1700638973532" duration="3200000" />
-      <workItem from="1700724754366" duration="4585000" />
-    </task>
-    <task id="LOCAL-00006" summary="GuessTheNumber">
-      <option name="closed" value="true" />
-      <created>1698131091435</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1698131091435</updated>
+      <workItem from="1700724754366" duration="4608000" />
+      <workItem from="1700819795819" duration="1340000" />
     </task>
     <task id="LOCAL-00007" summary="GuessTheNumber">
       <option name="closed" value="true" />
@@ -529,14 +521,21 @@
       <option name="project" value="LOCAL" />
       <updated>1700726992423</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Tic">
+      <option name="closed" value="true" />
+      <created>1700740017585</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1700740017585</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Signal" />
     <MESSAGE value="NumberToWorld" />
     <MESSAGE value="Table" />
     <MESSAGE value="DrawRectangle" />
@@ -561,6 +560,7 @@
     <MESSAGE value="Separator" />
     <MESSAGE value="ToTable" />
     <MESSAGE value="Mage" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mage" />
+    <MESSAGE value="Tic" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tic" />
   </component>
 </project>
