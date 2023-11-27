@@ -57,7 +57,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Mage">
+  <component name="RunManager" selected="Application.TicTacToe">
     <configuration name="Bell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bell" />
       <module name="Replay" />
@@ -79,13 +79,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Payer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Payer" />
-      <module name="Replay" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Programmer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Programmer" />
       <module name="Replay" />
@@ -93,13 +86,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TicTacToe" />
+      <module name="Replay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TicTacToe" />
         <item itemvalue="Application.Mage" />
         <item itemvalue="Application.Programmer" />
         <item itemvalue="Application.Dog" />
         <item itemvalue="Application.Bell" />
-        <item itemvalue="Application.Payer" />
       </list>
     </recent_temporary>
   </component>
@@ -135,15 +135,8 @@
       <workItem from="1700550599163" duration="4508000" />
       <workItem from="1700638973532" duration="3200000" />
       <workItem from="1700724754366" duration="4608000" />
-      <workItem from="1700819795819" duration="1340000" />
-    </task>
-    <task id="LOCAL-00007" summary="GuessTheNumber">
-      <option name="closed" value="true" />
-      <created>1698234100250</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1698234100250</updated>
+      <workItem from="1700819795819" duration="1565000" />
+      <workItem from="1701069061161" duration="588000" />
     </task>
     <task id="LOCAL-00008" summary="GuessTheNumber">
       <option name="closed" value="true" />
@@ -529,7 +522,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700740017585</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Tic">
+      <option name="closed" value="true" />
+      <created>1700823591183</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1700823591183</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
