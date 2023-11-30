@@ -1,6 +1,5 @@
 import java.util.Arrays;
 import java.util.Scanner;
-import java.util.TooManyListenersException;
 
 public class TicTacToe {
     String[][] array;
@@ -8,15 +7,17 @@ public class TicTacToe {
 
     public static void main(String[] args) {
         TicTacToe ticTacToe = new TicTacToe();
-        while (true) {
+        ticTacToe.newGame();
+        boolean check = true;
+        while (check) {
+            System.out.println("Куда сходим?");
             Scanner scanner = new Scanner(System.in);
             int x = scanner.nextInt();
             int y = scanner.nextInt();
-            ticTacToe.makeMove(x,y);
-            ticTacToe.checkGame();
-
+            ticTacToe.makeMove(x, y);
+            check = ticTacToe.checkGame();
+            ticTacToe.getField();
         }
-
     }
 
     void newGame() {
@@ -35,35 +36,42 @@ public class TicTacToe {
         System.out.println();
     }
 
-    String checkGame() {
+    boolean checkGame() {
         for (int i = 0; i < 3; i++) {
             for (int j = 0; j < 3; j++) {
-                if (array[i][j].equals("x") || array[j][i].equals("x")) {
-                    return "x";
+                System.out.println("i=" + i + " j=" + j);
+                if (array[i][j].equals("0") || array[j][i].equals("-")) {
+                    System.out.println("x win");
+                    return true;
+                } else if (array[j][i].equals("0") || array[j][j].equals("-")) {
+                    System.out.println("x win");
+
+                }else if(array[i][i].equals("0")||array[i][i].equals("-")){
+                    System.out.println("x win");
                 }
             }
+        }return false;
+    }
+
+    String makeMove(int x, int y) {
+
+        if (array[x - 1][y - 1].equals("x") || array[x - 1][y - 1].equals("0")) {
+            System.out.println("Cell" + "[" + x + "]" + "[" + y + "] is already occupied, сходи по-другому");
+            Scanner scanner = new Scanner(System.in);
+            int z = scanner.nextInt();
+            int z1 = scanner.nextInt();
+            this.makeMove(z, z1);
+
+        } else {
+            if (nowPlayer % 2 == 0) {
+                array[x - 1][y - 1] = "x";
+            } else {
+                array[x - 1][y - 1] = "0";
+            }
         }
+        nowPlayer++;
         return "a";
     }
-
-    void makeMove(int x, int y) {
-        boolean move = true;
-        while (move)
-            if (array[x - 1][y - 1].equals("X") || array[x - 1][y - 1].equals("0")) {
-                System.out.println("Cell" + "[" + x + "]" + "[" + y + "] is already occupied");
-
-            } else {
-                if (nowPlayer % 2 == 0)
-                    array[x - 1][y - 1] = "x";
-                else
-                    array[x - 1][y - 1] = "y";
-                move = false;
-            }
-        nowPlayer++;
-        getField();
-    }
-
-
 }
 
 
