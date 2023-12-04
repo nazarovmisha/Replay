@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Tic">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -140,15 +139,7 @@
       <workItem from="1701164925825" duration="4967000" />
       <workItem from="1701240326922" duration="1050000" />
       <workItem from="1701328592536" duration="6587000" />
-      <workItem from="1701672679098" duration="6774000" />
-    </task>
-    <task id="LOCAL-00014" summary="FindMedian">
-      <option name="closed" value="true" />
-      <created>1698914529447</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1698914529447</updated>
+      <workItem from="1701672679098" duration="7232000" />
     </task>
     <task id="LOCAL-00015" summary="PrintRectangle">
       <option name="closed" value="true" />
@@ -534,7 +525,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701674468558</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Tic">
+      <option name="closed" value="true" />
+      <created>1701689898147</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1701689898147</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
