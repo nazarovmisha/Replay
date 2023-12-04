@@ -55,7 +55,7 @@ public class TicTacToe {
         }return true;
     }
 
-    String makeMove(int x, int y) {
+    void makeMove(int x, int y) {
 
         if (array[x - 1][y - 1].equals("x") || array[x - 1][y - 1].equals("0")) {
             System.out.println("Cell" + "[" + x + "]" + "[" + y + "] is already occupied, сходи по-другому");
@@ -72,7 +72,6 @@ public class TicTacToe {
             }
         }
         nowPlayer++;
-        return "a";
     }
 }
 
