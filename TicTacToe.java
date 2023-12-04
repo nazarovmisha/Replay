@@ -42,15 +42,17 @@ public class TicTacToe {
                 System.out.println("i=" + i + " j=" + j);
                 if (array[i][j].equals("0") || array[j][i].equals("-")) {
                     System.out.println("x win");
-                    return true;
+                    return false;
                 } else if (array[j][i].equals("0") || array[j][j].equals("-")) {
                     System.out.println("x win");
+                    return false;
 
                 }else if(array[i][i].equals("0")||array[i][i].equals("-")){
                     System.out.println("x win");
+                    return false;
                 }
             }
-        }return false;
+        }return true;
     }
 
     String makeMove(int x, int y) {
