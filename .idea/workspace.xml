@@ -7,7 +7,6 @@
     <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Tic">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,23 +140,7 @@
       <workItem from="1701164925825" duration="4967000" />
       <workItem from="1701240326922" duration="1050000" />
       <workItem from="1701328592536" duration="6587000" />
-      <workItem from="1701672679098" duration="1485000" />
-    </task>
-    <task id="LOCAL-00012" summary="Solution">
-      <option name="closed" value="true" />
-      <created>1698751257588</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1698751257588</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Print">
-      <option name="closed" value="true" />
-      <created>1698835423142</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1698835423142</updated>
+      <workItem from="1701672679098" duration="6774000" />
     </task>
     <task id="LOCAL-00014" summary="FindMedian">
       <option name="closed" value="true" />
@@ -535,7 +518,23 @@
       <option name="project" value="LOCAL" />
       <updated>1701343993619</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Tic">
+      <option name="closed" value="true" />
+      <created>1701674433351</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1701674433351</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Tic">
+      <option name="closed" value="true" />
+      <created>1701674468558</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1701674468558</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
