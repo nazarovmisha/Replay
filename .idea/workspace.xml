@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Tic">
+      <change afterPath="$PROJECT_DIR$/Monster/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Monster/Zombie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,24 +60,23 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TicTacToe">
-    <configuration name="Bell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bell" />
-      <module name="Replay" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dog" />
-      <module name="Replay" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Monster">
     <configuration name="Mage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Mage" />
       <module name="Replay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Monster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Monster.Monster" />
+      <module name="Replay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Monster.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -92,13 +95,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Zombie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Monster.Zombie" />
+      <module name="Replay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Monster.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Monster" />
+        <item itemvalue="Application.Zombie" />
         <item itemvalue="Application.TicTacToe" />
         <item itemvalue="Application.Mage" />
         <item itemvalue="Application.Programmer" />
-        <item itemvalue="Application.Dog" />
-        <item itemvalue="Application.Bell" />
       </list>
     </recent_temporary>
   </component>
@@ -139,15 +155,8 @@
       <workItem from="1701164925825" duration="4967000" />
       <workItem from="1701240326922" duration="1050000" />
       <workItem from="1701328592536" duration="6587000" />
-      <workItem from="1701672679098" duration="7232000" />
-    </task>
-    <task id="LOCAL-00015" summary="PrintRectangle">
-      <option name="closed" value="true" />
-      <created>1698924909790</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1698924909790</updated>
+      <workItem from="1701672679098" duration="7480000" />
+      <workItem from="1701762340740" duration="2567000" />
     </task>
     <task id="LOCAL-00016" summary="Is">
       <option name="closed" value="true" />
@@ -533,7 +542,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701689898147</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Tic">
+      <option name="closed" value="true" />
+      <created>1701690383261</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1701690383262</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
