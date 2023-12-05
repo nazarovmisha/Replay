@@ -9,10 +9,9 @@ public class Monster {
         this.damage = damage;
     }
     public void growl(){
-
     }
-    public void attack(){
 
+    public void attack(){
     }
 
     public static void main(String[] args) {
