@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="TicTAcToe&#10;Monsret">
+      <change afterPath="$PROJECT_DIR$/Monster/Battle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Monster/GiantSnake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Monster/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Monster/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/Monster/Monster.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Monster/Zombie.java" beforeDir="false" afterPath="$PROJECT_DIR$/Monster/Zombie.java" afterDir="false" />
@@ -58,10 +61,23 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Monster">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Mage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Mage" />
       <module name="Replay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Monster.Main" />
+      <module name="Replay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Monster.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -75,13 +91,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Programmer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Programmer" />
-      <module name="Replay" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -108,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Monster" />
         <item itemvalue="Application.Zombie" />
         <item itemvalue="Application.TicTacToe" />
         <item itemvalue="Application.Mage" />
-        <item itemvalue="Application.Programmer" />
       </list>
     </recent_temporary>
   </component>
@@ -154,15 +163,7 @@
       <workItem from="1701240326922" duration="1050000" />
       <workItem from="1701328592536" duration="6587000" />
       <workItem from="1701672679098" duration="7480000" />
-      <workItem from="1701762340740" duration="3578000" />
-    </task>
-    <task id="LOCAL-00017" summary="IsPow">
-      <option name="closed" value="true" />
-      <created>1698994390722</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1698994390722</updated>
+      <workItem from="1701762340740" duration="4592000" />
     </task>
     <task id="LOCAL-00018" summary="Cube">
       <option name="closed" value="true" />
@@ -548,7 +549,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701769131240</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="TicTAcToe&#10;Monsret">
+      <option name="closed" value="true" />
+      <created>1701775973169</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1701775973169</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

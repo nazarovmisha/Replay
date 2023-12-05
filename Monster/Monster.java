@@ -14,8 +14,4 @@ public class Monster {
     public void attack(){
     }
 
-    public static void main(String[] args) {
-        Zombie zombie = new Zombie("Bob");
-        zombie.attack();
-    }
 }
