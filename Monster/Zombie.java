@@ -6,15 +6,13 @@ public class Zombie extends Monster {
         super(name + " the Zombie", 5);
     }
 
-    public void growl(){
+    public void growl() {
         System.out.println("Raaaauuughhhh");
     }
 
 
-
-
     @Override
-    public void attack(Monster.Monster monster) {
-
+    public void attack(Monster monster) {
+        monster.damage(10);
     }
 }

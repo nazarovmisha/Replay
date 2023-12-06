@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Zoo">
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Zombie">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Monster/Battle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Monster/Battle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Monster/GiantSnake.java" beforeDir="false" afterPath="$PROJECT_DIR$/Monster/GiantSnake.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Monster/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Monster/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Monster/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/Monster/Monster.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Monster/Zombie.java" beforeDir="false" afterPath="$PROJECT_DIR$/Monster/Zombie.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +59,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Zoo.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Monster.Main" />
       <module name="Replay" />
@@ -123,8 +121,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Zoo.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Zoo.Main" />
         <item itemvalue="Application.Monster" />
         <item itemvalue="Application.Zombie" />
         <item itemvalue="Application.TicTacToe" />
@@ -170,15 +168,7 @@
       <workItem from="1701328592536" duration="6587000" />
       <workItem from="1701672679098" duration="7480000" />
       <workItem from="1701762340740" duration="4752000" />
-      <workItem from="1701845447773" duration="5556000" />
-    </task>
-    <task id="LOCAL-00022" summary="Table">
-      <option name="closed" value="true" />
-      <created>1699343359692</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1699343359692</updated>
+      <workItem from="1701845447773" duration="6666000" />
     </task>
     <task id="LOCAL-00023" summary="DrawRectangle">
       <option name="closed" value="true" />
@@ -564,14 +554,21 @@
       <option name="project" value="LOCAL" />
       <updated>1701850448525</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Zombie">
+      <option name="closed" value="true" />
+      <created>1701861291958</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1701861291958</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CheckName" />
     <MESSAGE value="Control" />
     <MESSAGE value="BookStore" />
     <MESSAGE value="ForNumbers" />
@@ -596,6 +593,7 @@
     <MESSAGE value="&#10;Monsters" />
     <MESSAGE value="Worker" />
     <MESSAGE value="Zoo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zoo" />
+    <MESSAGE value="Zombie" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zombie" />
   </component>
 </project>
