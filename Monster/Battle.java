@@ -3,12 +3,17 @@ package Monster;
 public class Battle {
 
     final static private int MAX = 5;
-    Monster[] monsters = new Monster[MAX];
+    private Monster[] monsters;
+    private int count;
+
+    Battle() {
+        monsters = new Monster[MAX];
+    }
 
     public void add(Monster monster) {
-        int i = 0;
-        if (i < MAX) {
-            monsters[i++] = monster;
+
+        if (count < MAX) {
+            monsters[count++] = monster;
         } else {
             System.out.println("No more monsters");
         }
@@ -19,9 +24,10 @@ public class Battle {
     }
 
     public void run() {
-        for (int i = 0; i < MAX; i++) {
-            monsters[i].attack();
+        for (int i = 0; i < count; i++) {
+            if (monsters[i] != null) {
+                monsters[i].attack();
+            }
         }
     }
 }
-
