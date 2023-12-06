@@ -1,33 +1,20 @@
 package Monster;
 
 public class Zombie extends Monster {
-
-    public static String scream = "Raaaauuughhhh";
-
+    //Fix this class
     public Zombie(String name) {
         super(name + " the Zombie", 5);
     }
 
-    @Override
     public void growl(){
-        System.out.print(scream);
-        super.growl();
+        System.out.println("Raaaauuughhhh");
     }
 
-    public void growl(boolean loud){
-        if (!loud) {
-            growl();
-        }
-        else {
-            System.out.print(scream.toUpperCase());
-            super.growl();
-        }
-    }
+
+
 
     @Override
-    public void attack(){
-        super.attack();
-        growl();
-    }
+    public void attack(Monster.Monster monster) {
 
+    }
 }

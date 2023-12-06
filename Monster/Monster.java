@@ -1,17 +1,30 @@
 package Monster;
 
-public class Monster {
-    String name;
-    int damage;
 
-    public Monster(String name, int damage) {
+abstract public class Monster {
+    //Fix this class
+    private String name;
+    private int force;
+    private int hp = 15;
+    private boolean destroyed = false;
+
+    public Monster(String name, int force) {
         this.name = name;
-        this.damage = damage;
-    }
-    public void growl(){
-    }
-
-    public void attack(){
+        this.force = force;
+        System.out.println("Monster " + name + " was created");
     }
 
+    abstract public void attack(Monster monster);
+
+    protected int getForce() {
+        return force;
+    }
+
+    protected boolean damage(int dhp) {
+        hp -= dhp;
+        if (hp <= 0) {
+            return true;
+        }
+        return false;
+    }
 }

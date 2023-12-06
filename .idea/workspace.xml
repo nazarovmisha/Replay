@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Worker">
-      <change afterPath="$PROJECT_DIR$/Zoo/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zoo/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zoo/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zoo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zoo/PopcornStall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zoo/Reptile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zoo/Zoo.java" afterDir="false" />
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Zoo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Monster/Battle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Monster/Battle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Monster/GiantSnake.java" beforeDir="false" afterPath="$PROJECT_DIR$/Monster/GiantSnake.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Monster/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Monster/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Monster/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/Monster/Monster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Monster/Zombie.java" beforeDir="false" afterPath="$PROJECT_DIR$/Monster/Zombie.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,15 +170,7 @@
       <workItem from="1701328592536" duration="6587000" />
       <workItem from="1701672679098" duration="7480000" />
       <workItem from="1701762340740" duration="4752000" />
-      <workItem from="1701845447773" duration="3438000" />
-    </task>
-    <task id="LOCAL-00021" summary="NumberToWorld">
-      <option name="closed" value="true" />
-      <created>1699007226255</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1699007226255</updated>
+      <workItem from="1701845447773" duration="5556000" />
     </task>
     <task id="LOCAL-00022" summary="Table">
       <option name="closed" value="true" />
@@ -566,14 +556,21 @@
       <option name="project" value="LOCAL" />
       <updated>1701847643040</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="Zoo">
+      <option name="closed" value="true" />
+      <created>1701850448525</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1701850448525</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Name" />
     <MESSAGE value="CheckName" />
     <MESSAGE value="Control" />
     <MESSAGE value="BookStore" />
@@ -598,6 +595,7 @@
     <MESSAGE value="TicTAcToe&#10;Monsret" />
     <MESSAGE value="&#10;Monsters" />
     <MESSAGE value="Worker" />
-    <option name="LAST_COMMIT_MESSAGE" value="Worker" />
+    <MESSAGE value="Zoo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zoo" />
   </component>
 </project>
