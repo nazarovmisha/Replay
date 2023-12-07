@@ -1,13 +1,10 @@
 package Zoo;
 
-public class Cat extends Animal{
-    public void print() {
-        System.out.println(this);
-    }
+public class Cat extends Animal implements Soundable{
+
 
     @Override
-    public String toString() {
-        return "I am a Cat";
+    public void sound() {
+        System.out.println("Im cat");
     }
-
 }
