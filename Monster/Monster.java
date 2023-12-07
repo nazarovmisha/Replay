@@ -2,7 +2,6 @@ package Monster;
 
 
 abstract public class Monster {
-    //Fix this class
     private String name;
     private int force;
     private int hp = 15;
@@ -16,15 +15,23 @@ abstract public class Monster {
 
     abstract public void attack(Monster monster);
 
-    protected int getForce() {
+    protected int getForce(){
         return force;
     }
+
 
     protected boolean damage(int dhp) {
         hp -= dhp;
         if (hp <= 0) {
+            destroyed=true;
+            System.out.println("Monster " + name + " was destroyed");
+
             return true;
         }
         return false;
+    }
+
+    public boolean isDestroyed(){
+        return destroyed;
     }
 }
