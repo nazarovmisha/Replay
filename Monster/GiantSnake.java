@@ -1,6 +1,6 @@
 package Monster;
 
-public class GiantSnake extends Monster {
+public class GiantSnake extends Monster implements Fighter{
 
     public static String scream = "Ssssss";
 
@@ -9,20 +9,13 @@ public class GiantSnake extends Monster {
     }
 
 
-    public void growl() {
-        System.out.print(scream);
+    public void growl(){
+        System.out.println(scream);
     }
 
-    public void growl(boolean loud) {
-        if (!loud) {
-            growl();
-        } else {
-            System.out.print(scream.toUpperCase());
-        }
-    }
 
     @Override
     public void attack(Monster monster) {
-        monster.damage(15);
+        growl();
     }
 }

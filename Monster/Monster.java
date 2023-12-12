@@ -1,37 +1,22 @@
 package Monster;
 
-
-abstract public class Monster {
-    private String name;
+public abstract class Monster extends Entity implements Fighter {
     private int force;
-    private int hp = 15;
-    private boolean destroyed = false;
+
+
 
     public Monster(String name, int force) {
-        this.name = name;
+
+        super("Monster " + name + " was created");
         this.force = force;
-        System.out.println("Monster " + name + " was created");
     }
 
-    abstract public void attack(Monster monster);
-
-    protected int getForce(){
+    protected int getForce() {
         return force;
     }
 
 
-    protected boolean damage(int dhp) {
-        hp -= dhp;
-        if (hp <= 0) {
-            destroyed=true;
-            System.out.println("Monster " + name + " was destroyed");
 
-            return true;
-        }
-        return false;
-    }
-
-    public boolean isDestroyed(){
-        return destroyed;
-    }
+    public abstract void attack(Monster monster);
 }
+
