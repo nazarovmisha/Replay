@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Zoo">
-      <change afterPath="$PROJECT_DIR$/Monster/Entity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Monster/Fighter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Monster/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Monster/Tower.java" afterDir="false" />
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Fight">
+      <change afterPath="$PROJECT_DIR$/Frame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Monster/Battle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Monster/Battle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Monster/GiantSnake.java" beforeDir="false" afterPath="$PROJECT_DIR$/Monster/GiantSnake.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Monster/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Monster/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Monster/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/Monster/Monster.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Monster/Zombie.java" beforeDir="false" afterPath="$PROJECT_DIR$/Monster/Zombie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +62,14 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Frame">
+    <configuration name="Frame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Frame" />
+      <module name="Replay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Monster.Main" />
       <module name="Replay" />
@@ -90,13 +92,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TicTacToe" />
-      <module name="Replay" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -129,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Frame" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Zoo.Main" />
         <item itemvalue="Application.Monster" />
         <item itemvalue="Application.Zombie" />
-        <item itemvalue="Application.TicTacToe" />
       </list>
     </recent_temporary>
   </component>
@@ -178,15 +173,7 @@
       <workItem from="1701762340740" duration="4752000" />
       <workItem from="1701845447773" duration="6710000" />
       <workItem from="1701935397209" duration="4373000" />
-      <workItem from="1702365073079" duration="5392000" />
-    </task>
-    <task id="LOCAL-00026" summary="Control">
-      <option name="closed" value="true" />
-      <created>1699441711218</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1699441711218</updated>
+      <workItem from="1702365073079" duration="6824000" />
     </task>
     <task id="LOCAL-00027" summary="BookStore">
       <option name="closed" value="true" />
@@ -572,14 +559,21 @@
       <option name="project" value="LOCAL" />
       <updated>1701939867702</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="Fight">
+      <option name="closed" value="true" />
+      <created>1702374868432</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1702374868433</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Control" />
     <MESSAGE value="BookStore" />
     <MESSAGE value="ForNumbers" />
     <MESSAGE value="Fibanacci" />
@@ -604,6 +598,7 @@
     <MESSAGE value="Worker" />
     <MESSAGE value="Zombie" />
     <MESSAGE value="Zoo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zoo" />
+    <MESSAGE value="Fight" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fight" />
   </component>
 </project>

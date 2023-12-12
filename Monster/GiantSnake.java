@@ -18,4 +18,9 @@ public class GiantSnake extends Monster implements Fighter{
     public void attack(Monster monster) {
         growl();
     }
+
+    @Override
+    public void attack(Entity entity) {
+
+    }
 }

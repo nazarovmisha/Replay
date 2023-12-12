@@ -15,4 +15,9 @@ public class Zombie extends Monster implements Fighter {
         monster.damage(getForce());
         growl();
     }
+
+    @Override
+    public void attack(Entity entity) {
+
+    }
 }
