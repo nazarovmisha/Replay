@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Fight">
-      <change afterPath="$PROJECT_DIR$/Tv/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tv/Remote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tv/TvSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="TVset">
+      <change beforePath="$PROJECT_DIR$/Tv/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tv/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tv/Remote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tv/TvSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tv/TVset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,15 +173,7 @@
       <workItem from="1701845447773" duration="6710000" />
       <workItem from="1701935397209" duration="4373000" />
       <workItem from="1702365073079" duration="7426000" />
-      <workItem from="1702450342542" duration="2139000" />
-    </task>
-    <task id="LOCAL-00028" summary="BookStore">
-      <option name="closed" value="true" />
-      <created>1699530807465</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1699530807465</updated>
+      <workItem from="1702450342542" duration="2457000" />
     </task>
     <task id="LOCAL-00029" summary="BookStore">
       <option name="closed" value="true" />
@@ -567,14 +559,21 @@
       <option name="project" value="LOCAL" />
       <updated>1702377528393</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="TVset">
+      <option name="closed" value="true" />
+      <created>1702452817442</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1702452817442</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BookStore" />
     <MESSAGE value="ForNumbers" />
     <MESSAGE value="Fibanacci" />
     <MESSAGE value="Nht" />
@@ -599,6 +598,7 @@
     <MESSAGE value="Zombie" />
     <MESSAGE value="Zoo" />
     <MESSAGE value="Fight" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fight" />
+    <MESSAGE value="TVset" />
+    <option name="LAST_COMMIT_MESSAGE" value="TVset" />
   </component>
 </project>
