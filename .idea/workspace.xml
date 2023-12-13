@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="TVset">
-      <change beforePath="$PROJECT_DIR$/Tv/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tv/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tv/Remote.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tv/TvSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tv/TVset.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Monster/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Monster/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Monster/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/Monster/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Tv.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Frame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Frame" />
       <module name="Replay" />
@@ -123,9 +122,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Tv.Main" />
         <item itemvalue="Application.Frame" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Zoo.Main" />
         <item itemvalue="Application.Monster" />
       </list>
@@ -173,15 +172,7 @@
       <workItem from="1701845447773" duration="6710000" />
       <workItem from="1701935397209" duration="4373000" />
       <workItem from="1702365073079" duration="7426000" />
-      <workItem from="1702450342542" duration="2457000" />
-    </task>
-    <task id="LOCAL-00029" summary="BookStore">
-      <option name="closed" value="true" />
-      <created>1699871214685</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1699871214686</updated>
+      <workItem from="1702450342542" duration="7836000" />
     </task>
     <task id="LOCAL-00030" summary="ForNumbers">
       <option name="closed" value="true" />
@@ -567,7 +558,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702452817442</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="TVset">
+      <option name="closed" value="true" />
+      <created>1702453301986</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1702453301986</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
