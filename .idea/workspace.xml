@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="TVset">
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Player">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Monster/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Monster/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Frame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Monster/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/Monster/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +60,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Frame">
     <configuration name="Frame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Frame" />
       <module name="Replay" />
@@ -122,9 +122,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Frame" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Tv.Main" />
-        <item itemvalue="Application.Frame" />
         <item itemvalue="Application.Zoo.Main" />
         <item itemvalue="Application.Monster" />
       </list>
@@ -172,15 +172,7 @@
       <workItem from="1701845447773" duration="6710000" />
       <workItem from="1701935397209" duration="4373000" />
       <workItem from="1702365073079" duration="7426000" />
-      <workItem from="1702450342542" duration="7836000" />
-    </task>
-    <task id="LOCAL-00030" summary="ForNumbers">
-      <option name="closed" value="true" />
-      <created>1699871803160</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1699871803160</updated>
+      <workItem from="1702450342542" duration="9455000" />
     </task>
     <task id="LOCAL-00031" summary="Fibanacci">
       <option name="closed" value="true" />
@@ -566,14 +558,21 @@
       <option name="project" value="LOCAL" />
       <updated>1702453301986</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="Player">
+      <option name="closed" value="true" />
+      <created>1702464689010</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1702464689010</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ForNumbers" />
     <MESSAGE value="Fibanacci" />
     <MESSAGE value="Nht" />
     <MESSAGE value="HelloWorld" />
@@ -598,6 +597,7 @@
     <MESSAGE value="Zoo" />
     <MESSAGE value="Fight" />
     <MESSAGE value="TVset" />
-    <option name="LAST_COMMIT_MESSAGE" value="TVset" />
+    <MESSAGE value="Player" />
+    <option name="LAST_COMMIT_MESSAGE" value="Player" />
   </component>
 </project>

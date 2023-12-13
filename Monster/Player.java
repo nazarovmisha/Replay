@@ -26,7 +26,6 @@ public class Player extends Human {
     public void take(String str) {
         backpack.put(str);
     }
-
 }
 
 
