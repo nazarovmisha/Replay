@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Fight">
-      <change afterPath="$PROJECT_DIR$/Frame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tv/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tv/Remote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tv/TvSet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Monster/GiantSnake.java" beforeDir="false" afterPath="$PROJECT_DIR$/Monster/GiantSnake.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Monster/Zombie.java" beforeDir="false" afterPath="$PROJECT_DIR$/Monster/Zombie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +61,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Frame">
+  <component name="RunManager" selected="Application.Tv.Main">
     <configuration name="Frame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Frame" />
       <module name="Replay" />
@@ -96,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zombie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Monster.Zombie" />
+    <configuration name="Tv.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tv.Main" />
       <module name="Replay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Monster.*" />
+          <option name="PATTERN" value="Tv.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tv.Main" />
         <item itemvalue="Application.Frame" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Zoo.Main" />
         <item itemvalue="Application.Monster" />
-        <item itemvalue="Application.Zombie" />
       </list>
     </recent_temporary>
   </component>
@@ -173,15 +172,8 @@
       <workItem from="1701762340740" duration="4752000" />
       <workItem from="1701845447773" duration="6710000" />
       <workItem from="1701935397209" duration="4373000" />
-      <workItem from="1702365073079" duration="6824000" />
-    </task>
-    <task id="LOCAL-00027" summary="BookStore">
-      <option name="closed" value="true" />
-      <created>1699443886592</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1699443886592</updated>
+      <workItem from="1702365073079" duration="7426000" />
+      <workItem from="1702450342542" duration="2139000" />
     </task>
     <task id="LOCAL-00028" summary="BookStore">
       <option name="closed" value="true" />
@@ -567,7 +559,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702374868433</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="Fight">
+      <option name="closed" value="true" />
+      <created>1702377528393</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1702377528393</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
