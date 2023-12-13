@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Player">
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Frame">
+      <change afterPath="$PROJECT_DIR$/CoolPrinter/CoolPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoolPrinter/Formatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoolPrinter/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frame.java" beforeDir="false" afterPath="$PROJECT_DIR$/Frame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Monster/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/Monster/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -60,7 +61,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Frame">
+  <component name="RunManager" selected="Application.CoolPrinter.Main">
+    <configuration name="CoolPrinter.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CoolPrinter.Main" />
+      <module name="Replay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CoolPrinter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Frame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Frame" />
       <module name="Replay" />
@@ -70,19 +84,6 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Monster.Main" />
-      <module name="Replay" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Monster.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Monster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Monster.Monster" />
       <module name="Replay" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CoolPrinter.Main" />
         <item itemvalue="Application.Frame" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Tv.Main" />
         <item itemvalue="Application.Zoo.Main" />
-        <item itemvalue="Application.Monster" />
       </list>
     </recent_temporary>
   </component>
@@ -172,15 +173,7 @@
       <workItem from="1701845447773" duration="6710000" />
       <workItem from="1701935397209" duration="4373000" />
       <workItem from="1702365073079" duration="7426000" />
-      <workItem from="1702450342542" duration="9455000" />
-    </task>
-    <task id="LOCAL-00031" summary="Fibanacci">
-      <option name="closed" value="true" />
-      <created>1699874158398</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1699874158398</updated>
+      <workItem from="1702450342542" duration="10169000" />
     </task>
     <task id="LOCAL-00032" summary="Nht">
       <option name="closed" value="true" />
@@ -566,14 +559,21 @@
       <option name="project" value="LOCAL" />
       <updated>1702464689010</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="Frame">
+      <option name="closed" value="true" />
+      <created>1702466320956</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1702466320957</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Fibanacci" />
     <MESSAGE value="Nht" />
     <MESSAGE value="HelloWorld" />
     <MESSAGE value="Tank" />
@@ -598,6 +598,7 @@
     <MESSAGE value="Fight" />
     <MESSAGE value="TVset" />
     <MESSAGE value="Player" />
-    <option name="LAST_COMMIT_MESSAGE" value="Player" />
+    <MESSAGE value="Frame" />
+    <option name="LAST_COMMIT_MESSAGE" value="Frame" />
   </component>
 </project>
