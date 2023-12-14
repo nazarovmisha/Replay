@@ -1,5 +1,7 @@
 package CoolPrinter;
 
-public interface Formatter{
-    String format(String line);
+public interface Formatter {
+    default String format(String line) {
+        return line = "** " + line + " **";
+    }
 }

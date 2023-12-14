@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Frame">
-      <change afterPath="$PROJECT_DIR$/CoolPrinter/CoolPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoolPrinter/Formatter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoolPrinter/Main.java" afterDir="false" />
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="CoolPrinter">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoolPrinter/CoolPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoolPrinter/CoolPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoolPrinter/Formatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoolPrinter/Formatter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,15 +172,8 @@
       <workItem from="1701845447773" duration="6710000" />
       <workItem from="1701935397209" duration="4373000" />
       <workItem from="1702365073079" duration="7426000" />
-      <workItem from="1702450342542" duration="10169000" />
-    </task>
-    <task id="LOCAL-00032" summary="Nht">
-      <option name="closed" value="true" />
-      <created>1699875879426</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1699875879426</updated>
+      <workItem from="1702450342542" duration="10467000" />
+      <workItem from="1702538047115" duration="667000" />
     </task>
     <task id="LOCAL-00033" summary="HelloWorld">
       <option name="closed" value="true" />
@@ -567,14 +559,21 @@
       <option name="project" value="LOCAL" />
       <updated>1702466320957</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="CoolPrinter">
+      <option name="closed" value="true" />
+      <created>1702466875568</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1702466875568</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Nht" />
     <MESSAGE value="HelloWorld" />
     <MESSAGE value="Tank" />
     <MESSAGE value="TextCleaner" />
@@ -599,6 +598,7 @@
     <MESSAGE value="TVset" />
     <MESSAGE value="Player" />
     <MESSAGE value="Frame" />
-    <option name="LAST_COMMIT_MESSAGE" value="Frame" />
+    <MESSAGE value="CoolPrinter" />
+    <option name="LAST_COMMIT_MESSAGE" value="CoolPrinter" />
   </component>
 </project>
