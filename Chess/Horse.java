@@ -12,9 +12,9 @@ public class Horse extends ChessPiece {
 
     @Override
     public boolean canMoveToPosition(ChessBoard chessBoard, int line, int column, int toLine, int toColumn) {
-        if (toLine>=0&&toLine<=7&&toColumn>=0&&toColumn<=7){
-        return true;
-    }else return false;
+        if (toLine >= 0 && toLine <= 7 && toColumn >= 0 && toColumn <= 7) {
+            return true;
+        } else return false;
     }
 
     @Override
