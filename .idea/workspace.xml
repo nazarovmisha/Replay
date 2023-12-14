@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Ex8">
-      <change afterPath="$PROJECT_DIR$/Chess/ChessBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chess/ChessPiece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chess/Horse.java" afterDir="false" />
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Horse">
+      <change afterPath="$PROJECT_DIR$/Chess/Pawn.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -174,15 +172,7 @@
       <workItem from="1701935397209" duration="4373000" />
       <workItem from="1702365073079" duration="7426000" />
       <workItem from="1702450342542" duration="10467000" />
-      <workItem from="1702538047115" duration="6183000" />
-    </task>
-    <task id="LOCAL-00036" summary="Tank">
-      <option name="closed" value="true" />
-      <created>1699957997001</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1699957997001</updated>
+      <workItem from="1702538047115" duration="7122000" />
     </task>
     <task id="LOCAL-00037" summary="Tank">
       <option name="closed" value="true" />
@@ -568,14 +558,21 @@
       <option name="project" value="LOCAL" />
       <updated>1702541692276</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="Horse">
+      <option name="closed" value="true" />
+      <created>1702546656138</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1702546656138</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="TextCleaner" />
     <MESSAGE value="Replace" />
     <MESSAGE value="Abba" />
     <MESSAGE value="Plane" />
@@ -600,6 +597,7 @@
     <MESSAGE value="CoolPrinter" />
     <MESSAGE value="Ex1" />
     <MESSAGE value="Ex8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ex8" />
+    <MESSAGE value="Horse" />
+    <option name="LAST_COMMIT_MESSAGE" value="Horse" />
   </component>
 </project>
