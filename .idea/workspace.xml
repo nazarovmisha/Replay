@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="CoolPrinter">
+      <change afterPath="$PROJECT_DIR$/Ex1/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1/Guitar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1/Soundable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex1/Transport.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoolPrinter/CoolPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoolPrinter/CoolPrinter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoolPrinter/Formatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/CoolPrinter/Formatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,15 +176,7 @@
       <workItem from="1701935397209" duration="4373000" />
       <workItem from="1702365073079" duration="7426000" />
       <workItem from="1702450342542" duration="10467000" />
-      <workItem from="1702538047115" duration="667000" />
-    </task>
-    <task id="LOCAL-00033" summary="HelloWorld">
-      <option name="closed" value="true" />
-      <created>1699945129291</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1699945129291</updated>
+      <workItem from="1702538047115" duration="1977000" />
     </task>
     <task id="LOCAL-00034" summary="Tank">
       <option name="closed" value="true" />
@@ -567,7 +562,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702466875568</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="CoolPrinter">
+      <option name="closed" value="true" />
+      <created>1702538955431</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1702538955431</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

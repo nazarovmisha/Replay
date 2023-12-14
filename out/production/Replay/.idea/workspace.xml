@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Fight">
-      <change afterPath="$PROJECT_DIR$/Tv/Remote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tv/TvSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="CoolPrinter" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -60,7 +56,20 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Tv.Main">
+  <component name="RunManager" selected="Application.CoolPrinter.Main">
+    <configuration name="CoolPrinter.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CoolPrinter.Main" />
+      <module name="Replay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CoolPrinter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Frame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Frame" />
       <module name="Replay" />
@@ -70,19 +79,6 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Monster.Main" />
-      <module name="Replay" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Monster.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Monster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Monster.Monster" />
       <module name="Replay" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Tv.Main" />
+        <item itemvalue="Application.CoolPrinter.Main" />
         <item itemvalue="Application.Frame" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Tv.Main" />
         <item itemvalue="Application.Zoo.Main" />
-        <item itemvalue="Application.Monster" />
       </list>
     </recent_temporary>
   </component>
@@ -172,47 +168,7 @@
       <workItem from="1701845447773" duration="6710000" />
       <workItem from="1701935397209" duration="4373000" />
       <workItem from="1702365073079" duration="7426000" />
-      <workItem from="1702450342542" duration="935000" />
-    </task>
-    <task id="LOCAL-00028" summary="BookStore">
-      <option name="closed" value="true" />
-      <created>1699530807465</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1699530807465</updated>
-    </task>
-    <task id="LOCAL-00029" summary="BookStore">
-      <option name="closed" value="true" />
-      <created>1699871214685</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1699871214686</updated>
-    </task>
-    <task id="LOCAL-00030" summary="ForNumbers">
-      <option name="closed" value="true" />
-      <created>1699871803160</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1699871803160</updated>
-    </task>
-    <task id="LOCAL-00031" summary="Fibanacci">
-      <option name="closed" value="true" />
-      <created>1699874158398</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1699874158398</updated>
-    </task>
-    <task id="LOCAL-00032" summary="Nht">
-      <option name="closed" value="true" />
-      <created>1699875879426</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1699875879426</updated>
+      <workItem from="1702450342542" duration="10467000" />
     </task>
     <task id="LOCAL-00033" summary="HelloWorld">
       <option name="closed" value="true" />
@@ -566,17 +522,53 @@
       <option name="project" value="LOCAL" />
       <updated>1702377528393</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="TVset">
+      <option name="closed" value="true" />
+      <created>1702452817442</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1702452817442</updated>
+    </task>
+    <task id="LOCAL-00078" summary="TVset">
+      <option name="closed" value="true" />
+      <created>1702453301986</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1702453301986</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Player">
+      <option name="closed" value="true" />
+      <created>1702464689010</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1702464689010</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Frame">
+      <option name="closed" value="true" />
+      <created>1702466320956</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1702466320957</updated>
+    </task>
+    <task id="LOCAL-00081" summary="CoolPrinter">
+      <option name="closed" value="true" />
+      <created>1702466875568</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1702466875568</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BookStore" />
-    <MESSAGE value="ForNumbers" />
-    <MESSAGE value="Fibanacci" />
-    <MESSAGE value="Nht" />
     <MESSAGE value="HelloWorld" />
     <MESSAGE value="Tank" />
     <MESSAGE value="TextCleaner" />
@@ -598,6 +590,10 @@
     <MESSAGE value="Zombie" />
     <MESSAGE value="Zoo" />
     <MESSAGE value="Fight" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fight" />
+    <MESSAGE value="TVset" />
+    <MESSAGE value="Player" />
+    <MESSAGE value="Frame" />
+    <MESSAGE value="CoolPrinter" />
+    <option name="LAST_COMMIT_MESSAGE" value="CoolPrinter" />
   </component>
 </project>
