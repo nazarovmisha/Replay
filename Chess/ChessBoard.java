@@ -1,5 +1,8 @@
 package Chess;
 
+//line - горизонталь
+//column - вертикаль
+
 
 public class ChessBoard {
     public ChessPiece[][] board = new ChessPiece[8][8];

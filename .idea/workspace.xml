@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Horse">
-      <change afterPath="$PROJECT_DIR$/Chess/Pawn.java" afterDir="false" />
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Pawn">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chess/ChessBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chess/ChessBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chess/Horse.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chess/Horse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,23 +173,9 @@
       <workItem from="1701935397209" duration="4373000" />
       <workItem from="1702365073079" duration="7426000" />
       <workItem from="1702450342542" duration="10467000" />
-      <workItem from="1702538047115" duration="7122000" />
-    </task>
-    <task id="LOCAL-00037" summary="Tank">
-      <option name="closed" value="true" />
-      <created>1699962431509</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1699962431509</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Tank">
-      <option name="closed" value="true" />
-      <created>1700048747542</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1700048747542</updated>
+      <workItem from="1702538047115" duration="7773000" />
+      <workItem from="1702886997718" duration="878000" />
+      <workItem from="1702897104661" duration="1574000" />
     </task>
     <task id="LOCAL-00039" summary="Tank">
       <option name="closed" value="true" />
@@ -566,14 +553,29 @@
       <option name="project" value="LOCAL" />
       <updated>1702546656138</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="Pawn">
+      <option name="closed" value="true" />
+      <created>1702549460786</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1702549460787</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Pawn">
+      <option name="closed" value="true" />
+      <created>1702554194569</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1702554194569</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Replace" />
     <MESSAGE value="Abba" />
     <MESSAGE value="Plane" />
     <MESSAGE value="Bell" />
@@ -598,6 +600,7 @@
     <MESSAGE value="Ex1" />
     <MESSAGE value="Ex8" />
     <MESSAGE value="Horse" />
-    <option name="LAST_COMMIT_MESSAGE" value="Horse" />
+    <MESSAGE value="Pawn" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pawn" />
   </component>
 </project>
