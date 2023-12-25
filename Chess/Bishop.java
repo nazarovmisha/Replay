@@ -1,7 +1,7 @@
 package Chess;
 
-public class Pawn extends ChessPiece {
-    public Pawn(String color) {
+public class Bishop extends ChessPiece {
+    public Bishop(String color) {
         super(color);
     }
 
@@ -14,10 +14,7 @@ public class Pawn extends ChessPiece {
     public boolean canMoveToPosition(ChessBoard chessBoard, int line, int column, int toLine, int toColumn) {
         if (toLine >= 0 && toLine <= 7 && toColumn >= 0 && toColumn <= 7) {
             if (line != toLine && column != toColumn) {
-                if (((color.equals("White") && line == 1) && (toLine == line + 1) || (toLine == line + 2)) || (color.equals("Black") && line == 6) &&
-                        (line - toLine == 2) || line - toLine == 1) {
-                    return true;
-                } else if ((color.equals("White") && toLine == line + 1) || (color.equals("Black") && toLine == line - 1)) {
+                if (Math.abs(toColumn - column) == Math.abs(toLine - line)) {
                     return true;
                 }
             }
@@ -27,6 +24,6 @@ public class Pawn extends ChessPiece {
 
     @Override
     public String getSymbol() {
-        return "P";
+        return "B";
     }
 }
