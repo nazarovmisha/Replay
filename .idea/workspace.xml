@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Pawn">
-      <change afterPath="$PROJECT_DIR$/Chess/Bishop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chess/King.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chess/Queen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chess/Rook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chess/Horse.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chess/Horse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Chess/Pawn.java" beforeDir="false" afterPath="$PROJECT_DIR$/Chess/Pawn.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,15 +178,8 @@
       <workItem from="1702886997718" duration="878000" />
       <workItem from="1702897104661" duration="2760000" />
       <workItem from="1702973393669" duration="594000" />
-      <workItem from="1703491751837" duration="7396000" />
-    </task>
-    <task id="LOCAL-00042" summary="Abba">
-      <option name="closed" value="true" />
-      <created>1700212112249</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1700212112249</updated>
+      <workItem from="1703491751837" duration="7410000" />
+      <workItem from="1703574658258" duration="6899000" />
     </task>
     <task id="LOCAL-00043" summary="Plane">
       <option name="closed" value="true" />
@@ -572,7 +565,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703492433647</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="Pawn">
+      <option name="closed" value="true" />
+      <created>1703504642177</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1703504642177</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
