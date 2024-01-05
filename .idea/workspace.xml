@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Ex">
-      <change afterPath="$PROJECT_DIR$/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Test">
+      <change afterPath="$PROJECT_DIR$/TryWithResources.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,15 +163,7 @@
       <workItem from="1703491751837" duration="7410000" />
       <workItem from="1703574658258" duration="6912000" />
       <workItem from="1703746793290" duration="2471000" />
-      <workItem from="1704442543414" duration="1066000" />
-    </task>
-    <task id="LOCAL-00046" summary="Payer">
-      <option name="closed" value="true" />
-      <created>1700480099741</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1700480099741</updated>
+      <workItem from="1704442543414" duration="1409000" />
     </task>
     <task id="LOCAL-00047" summary="Dog">
       <option name="closed" value="true" />
@@ -559,14 +549,21 @@
       <option name="project" value="LOCAL" />
       <updated>1704443073004</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="Test">
+      <option name="closed" value="true" />
+      <created>1704443775345</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1704443775345</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Plane" />
     <MESSAGE value="Bell" />
     <MESSAGE value="Payer" />
     <MESSAGE value="Dog" />
@@ -591,6 +588,7 @@
     <MESSAGE value="Horse" />
     <MESSAGE value="Pawn" />
     <MESSAGE value="Ex" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ex" />
+    <MESSAGE value="Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test" />
   </component>
 </project>
