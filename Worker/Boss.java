@@ -1,12 +1,10 @@
 package Worker;
-
-import java.util.Queue;
+import java.util.Deque;
 
 public class Boss {
-    private Queue toDoQueue;
+    private Deque toDoQueue;
 
-
-    public Boss(Queue toDoQueue) {
+    public Boss(Deque toDoQueue) {
         this.toDoQueue = toDoQueue;
     }
 

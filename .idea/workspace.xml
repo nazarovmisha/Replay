@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="TryWithResources">
-      <change afterPath="$PROJECT_DIR$/Worker/Boss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Worker/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Worker/Worker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Worker">
+      <change beforePath="$PROJECT_DIR$/Worker/Boss.java" beforeDir="false" afterPath="$PROJECT_DIR$/Worker/Boss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Worker/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Worker/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Worker/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/Worker/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,15 +174,7 @@
       <workItem from="1703746793290" duration="2471000" />
       <workItem from="1704442543414" duration="1765000" />
       <workItem from="1704773897720" duration="246000" />
-      <workItem from="1705048945748" duration="4043000" />
-    </task>
-    <task id="LOCAL-00048" summary="Dog">
-      <option name="closed" value="true" />
-      <created>1700480603268</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1700480603268</updated>
+      <workItem from="1705048945748" duration="4843000" />
     </task>
     <task id="LOCAL-00049" summary="Human">
       <option name="closed" value="true" />
@@ -568,7 +560,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704444197958</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="Worker">
+      <option name="closed" value="true" />
+      <created>1705055392781</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1705055392781</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -585,7 +585,6 @@
     <MESSAGE value="Tic" />
     <MESSAGE value="TicTAcToe&#10;Monsret" />
     <MESSAGE value="&#10;Monsters" />
-    <MESSAGE value="Worker" />
     <MESSAGE value="Zombie" />
     <MESSAGE value="Zoo" />
     <MESSAGE value="Fight" />
@@ -600,6 +599,7 @@
     <MESSAGE value="Ex" />
     <MESSAGE value="Test" />
     <MESSAGE value="TryWithResources" />
-    <option name="LAST_COMMIT_MESSAGE" value="TryWithResources" />
+    <MESSAGE value="Worker" />
+    <option name="LAST_COMMIT_MESSAGE" value="Worker" />
   </component>
 </project>

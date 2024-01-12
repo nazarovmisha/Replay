@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Pawn" />
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="TryWithResources">
+      <change afterPath="$PROJECT_DIR$/Worker/Boss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Worker/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Worker/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +64,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ex">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="C" />
       <module name="Replay" />
@@ -87,19 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Frame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Frame" />
-      <module name="Replay" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Monster.Main" />
+      <option name="MAIN_CLASS_NAME" value="Worker.Main" />
       <module name="Replay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Monster.*" />
+          <option name="PATTERN" value="Worker.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,13 +105,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Replay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Ex" />
         <item itemvalue="Application.C" />
         <item itemvalue="Application.CoolPrinter.Main" />
-        <item itemvalue="Application.Frame" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -167,30 +172,9 @@
       <workItem from="1703491751837" duration="7410000" />
       <workItem from="1703574658258" duration="6912000" />
       <workItem from="1703746793290" duration="2471000" />
-    </task>
-    <task id="LOCAL-00045" summary="Bell">
-      <option name="closed" value="true" />
-      <created>1700476081951</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1700476081951</updated>
-    </task>
-    <task id="LOCAL-00046" summary="Payer">
-      <option name="closed" value="true" />
-      <created>1700480099741</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1700480099741</updated>
-    </task>
-    <task id="LOCAL-00047" summary="Dog">
-      <option name="closed" value="true" />
-      <created>1700480352432</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1700480352432</updated>
+      <workItem from="1704442543414" duration="1765000" />
+      <workItem from="1704773897720" duration="246000" />
+      <workItem from="1705048945748" duration="3740000" />
     </task>
     <task id="LOCAL-00048" summary="Dog">
       <option name="closed" value="true" />
@@ -560,16 +544,37 @@
       <option name="project" value="LOCAL" />
       <updated>1703760597232</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="Ex">
+      <option name="closed" value="true" />
+      <created>1704443073004</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1704443073004</updated>
+    </task>
+    <task id="LOCAL-00095" summary="Test">
+      <option name="closed" value="true" />
+      <created>1704443775345</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1704443775345</updated>
+    </task>
+    <task id="LOCAL-00096" summary="TryWithResources">
+      <option name="closed" value="true" />
+      <created>1704444197958</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1704444197958</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Abba" />
-    <MESSAGE value="Plane" />
-    <MESSAGE value="Bell" />
     <MESSAGE value="Payer" />
     <MESSAGE value="Dog" />
     <MESSAGE value="Human" />
@@ -592,6 +597,9 @@
     <MESSAGE value="Ex8" />
     <MESSAGE value="Horse" />
     <MESSAGE value="Pawn" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pawn" />
+    <MESSAGE value="Ex" />
+    <MESSAGE value="Test" />
+    <MESSAGE value="TryWithResources" />
+    <option name="LAST_COMMIT_MESSAGE" value="TryWithResources" />
   </component>
 </project>

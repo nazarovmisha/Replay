@@ -1,16 +1,16 @@
 package Worker;
 
-import java.util.Queue;
+import java.util.Deque;
 
 public class Worker {
-    private Queue toDoQueue;
+    private Deque toDoQueue;
 
-    public Worker(Queue toDoQueue) {
+    public Worker(Deque toDoQueue) {
         this.toDoQueue = toDoQueue;
     }
 
     public void takeTask() {
-        Object task = toDoQueue.poll();
+        Object task = toDoQueue.pollLast();
         if (task != null) {
             System.out.println("Выполняю задание:" + task);
         } else {
