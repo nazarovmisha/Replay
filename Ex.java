@@ -1,7 +1,5 @@
 public class Ex {
     public static void main(String[] args) {
-
-
         int[] array1 = new int[100];
         int[] array2 = new int[100];
 
@@ -13,7 +11,7 @@ public class Ex {
                 try {
                   int a= array1[i] / array2[j];
                 } catch (ArithmeticException e) {
-                    System.out.println("Не делим на на ноль");;
+                    System.out.println("Не делим на на ноль");
                 }
             }
         }
