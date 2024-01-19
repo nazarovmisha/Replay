@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Car">
-      <change afterPath="$PROJECT_DIR$/StockAccount/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StockAccount/StockAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="StockAccount">
+      <change afterPath="$PROJECT_DIR$/CheckResults.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StockAccount.Main">
+  <component name="RunManager" selected="Application.CheckResults">
     <configuration name="ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayList" />
       <module name="Replay" />
@@ -80,6 +79,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckResults" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckResults" />
+      <module name="Replay" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -110,20 +116,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="Replay" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckResults" />
         <item itemvalue="Application.StockAccount.Main" />
         <item itemvalue="Application.Car.Main" />
         <item itemvalue="Application.ArrayList" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -182,15 +181,7 @@
       <workItem from="1705048945748" duration="6599000" />
       <workItem from="1705301627153" duration="6660000" />
       <workItem from="1705391096475" duration="703000" />
-      <workItem from="1705648977189" duration="559000" />
-    </task>
-    <task id="LOCAL-00056" summary="Tic">
-      <option name="closed" value="true" />
-      <created>1700823591183</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1700823591183</updated>
+      <workItem from="1705648977189" duration="1417000" />
     </task>
     <task id="LOCAL-00057" summary="Tic">
       <option name="closed" value="true" />
@@ -576,14 +567,21 @@
       <option name="project" value="LOCAL" />
       <updated>1705318892145</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="StockAccount">
+      <option name="closed" value="true" />
+      <created>1705649612655</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1705649612655</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Human" />
     <MESSAGE value="Programmer" />
     <MESSAGE value="Separator" />
     <MESSAGE value="ToTable" />
@@ -608,6 +606,7 @@
     <MESSAGE value="Worker" />
     <MESSAGE value="ArrayList" />
     <MESSAGE value="Car" />
-    <option name="LAST_COMMIT_MESSAGE" value="Car" />
+    <MESSAGE value="StockAccount" />
+    <option name="LAST_COMMIT_MESSAGE" value="StockAccount" />
   </component>
 </project>
