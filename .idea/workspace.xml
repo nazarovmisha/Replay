@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="StockAccount">
-      <change afterPath="$PROJECT_DIR$/CheckResults.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="CheckResults">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckResults.java" beforeDir="false" afterPath="$PROJECT_DIR$/CheckResults.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,23 +181,7 @@
       <workItem from="1705048945748" duration="6599000" />
       <workItem from="1705301627153" duration="6660000" />
       <workItem from="1705391096475" duration="703000" />
-      <workItem from="1705648977189" duration="1417000" />
-    </task>
-    <task id="LOCAL-00057" summary="Tic">
-      <option name="closed" value="true" />
-      <created>1701085891057</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1701085891057</updated>
-    </task>
-    <task id="LOCAL-00058" summary="Tic">
-      <option name="closed" value="true" />
-      <created>1701168165978</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1701168165979</updated>
+      <workItem from="1705648977189" duration="2794000" />
     </task>
     <task id="LOCAL-00059" summary="Tic">
       <option name="closed" value="true" />
@@ -575,14 +559,29 @@
       <option name="project" value="LOCAL" />
       <updated>1705649612655</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="CheckResults">
+      <option name="closed" value="true" />
+      <created>1705657349363</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1705657349364</updated>
+    </task>
+    <task id="LOCAL-00107" summary="CheckResults">
+      <option name="closed" value="true" />
+      <created>1705657455009</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1705657455009</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Programmer" />
     <MESSAGE value="Separator" />
     <MESSAGE value="ToTable" />
     <MESSAGE value="Mage" />
@@ -607,6 +606,7 @@
     <MESSAGE value="ArrayList" />
     <MESSAGE value="Car" />
     <MESSAGE value="StockAccount" />
-    <option name="LAST_COMMIT_MESSAGE" value="StockAccount" />
+    <MESSAGE value="CheckResults" />
+    <option name="LAST_COMMIT_MESSAGE" value="CheckResults" />
   </component>
 </project>
