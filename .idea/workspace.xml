@@ -63,16 +63,10 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TwoThreads">
-    <configuration name="Car.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Car.Main" />
+  <component name="RunManager" selected="Application.CalculatePerimeters">
+    <configuration name="CalculatePerimeters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CalculatePerimeters" />
       <module name="Replay" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Car.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -119,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculatePerimeters" />
         <item itemvalue="Application.TwoThreads" />
         <item itemvalue="Application.ConsoleClock.Main" />
         <item itemvalue="Application.CheckResults" />
         <item itemvalue="Application.StockAccount.Main" />
-        <item itemvalue="Application.Car.Main" />
       </list>
     </recent_temporary>
   </component>
