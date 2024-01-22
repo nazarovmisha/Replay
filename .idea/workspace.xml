@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="CalculatePerimeters">
-      <change afterPath="$PROJECT_DIR$/Bank/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bank/Client.java" afterDir="false" />
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Bank">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bank/Client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,15 +176,7 @@
       <workItem from="1705301627153" duration="6660000" />
       <workItem from="1705391096475" duration="703000" />
       <workItem from="1705648977189" duration="4079000" />
-      <workItem from="1705903611210" duration="10567000" />
-    </task>
-    <task id="LOCAL-00063" summary="Tic">
-      <option name="closed" value="true" />
-      <created>1701689898147</created>
-      <option name="number" value="00063" />
-      <option name="presentableId" value="LOCAL-00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1701689898147</updated>
+      <workItem from="1705903611210" duration="11784000" />
     </task>
     <task id="LOCAL-00064" summary="Tic">
       <option name="closed" value="true" />
@@ -571,14 +562,21 @@
       <option name="project" value="LOCAL" />
       <updated>1705910747319</updated>
     </task>
-    <option name="localTasksCounter" value="112" />
+    <task id="LOCAL-00112" summary="Bank">
+      <option name="closed" value="true" />
+      <created>1705916853518</created>
+      <option name="number" value="00112" />
+      <option name="presentableId" value="LOCAL-00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1705916853518</updated>
+    </task>
+    <option name="localTasksCounter" value="113" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Tic" />
     <MESSAGE value="TicTAcToe&#10;Monsret" />
     <MESSAGE value="&#10;Monsters" />
     <MESSAGE value="Zombie" />
@@ -603,6 +601,7 @@
     <MESSAGE value="ConsoleClock" />
     <MESSAGE value="TwoThreads" />
     <MESSAGE value="CalculatePerimeters" />
-    <option name="LAST_COMMIT_MESSAGE" value="CalculatePerimeters" />
+    <MESSAGE value="Bank" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bank" />
   </component>
 </project>
