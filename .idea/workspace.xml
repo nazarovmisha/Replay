@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="CheckResults">
+      <change afterPath="$PROJECT_DIR$/ConsoleClock/ConsoleClock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleClock/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckResults.java" beforeDir="false" afterPath="$PROJECT_DIR$/CheckResults.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +63,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CheckResults">
+  <component name="RunManager" selected="Application.ConsoleClock.Main">
     <configuration name="ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayList" />
       <module name="Replay" />
@@ -90,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Worker.Main" />
+    <configuration name="ConsoleClock.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConsoleClock.Main" />
       <module name="Replay" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Worker.*" />
+          <option name="PATTERN" value="ConsoleClock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConsoleClock.Main" />
         <item itemvalue="Application.CheckResults" />
         <item itemvalue="Application.StockAccount.Main" />
         <item itemvalue="Application.Car.Main" />
         <item itemvalue="Application.ArrayList" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -181,15 +182,8 @@
       <workItem from="1705048945748" duration="6599000" />
       <workItem from="1705301627153" duration="6660000" />
       <workItem from="1705391096475" duration="703000" />
-      <workItem from="1705648977189" duration="2794000" />
-    </task>
-    <task id="LOCAL-00059" summary="Tic">
-      <option name="closed" value="true" />
-      <created>1701172428871</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1701172428871</updated>
+      <workItem from="1705648977189" duration="4079000" />
+      <workItem from="1705903611210" duration="3240000" />
     </task>
     <task id="LOCAL-00060" summary="Tic">
       <option name="closed" value="true" />
@@ -575,7 +569,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705657455009</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="CheckResults">
+      <option name="closed" value="true" />
+      <created>1705659362701</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1705659362701</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
