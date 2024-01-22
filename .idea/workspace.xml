@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="CheckResults">
-      <change afterPath="$PROJECT_DIR$/ConsoleClock/ConsoleClock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleClock/Main.java" afterDir="false" />
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="TwoThreads">
+      <change afterPath="$PROJECT_DIR$/TwoThreads.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,14 +63,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ConsoleClock.Main">
-    <configuration name="ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayList" />
-      <module name="Replay" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TwoThreads">
     <configuration name="Car.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Car.Main" />
       <module name="Replay" />
@@ -117,13 +110,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TwoThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TwoThreads" />
+      <module name="Replay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TwoThreads" />
         <item itemvalue="Application.ConsoleClock.Main" />
         <item itemvalue="Application.CheckResults" />
         <item itemvalue="Application.StockAccount.Main" />
         <item itemvalue="Application.Car.Main" />
-        <item itemvalue="Application.ArrayList" />
       </list>
     </recent_temporary>
   </component>
@@ -183,15 +183,7 @@
       <workItem from="1705301627153" duration="6660000" />
       <workItem from="1705391096475" duration="703000" />
       <workItem from="1705648977189" duration="4079000" />
-      <workItem from="1705903611210" duration="3240000" />
-    </task>
-    <task id="LOCAL-00060" summary="Tic">
-      <option name="closed" value="true" />
-      <created>1701343993619</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1701343993619</updated>
+      <workItem from="1705903611210" duration="4946000" />
     </task>
     <task id="LOCAL-00061" summary="Tic">
       <option name="closed" value="true" />
@@ -577,15 +569,21 @@
       <option name="project" value="LOCAL" />
       <updated>1705659362701</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="ConsoleClock">
+      <option name="closed" value="true" />
+      <created>1705908683984</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1705908683985</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Separator" />
-    <MESSAGE value="ToTable" />
     <MESSAGE value="Mage" />
     <MESSAGE value="Tic" />
     <MESSAGE value="TicTAcToe&#10;Monsret" />
@@ -609,6 +607,8 @@
     <MESSAGE value="Car" />
     <MESSAGE value="StockAccount" />
     <MESSAGE value="CheckResults" />
-    <option name="LAST_COMMIT_MESSAGE" value="CheckResults" />
+    <MESSAGE value="ConsoleClock" />
+    <MESSAGE value="TwoThreads" />
+    <option name="LAST_COMMIT_MESSAGE" value="TwoThreads" />
   </component>
 </project>
