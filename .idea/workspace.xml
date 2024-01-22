@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Bank">
-      <change afterPath="$PROJECT_DIR$/WorkerList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="WorkerList">
+      <change beforePath="$PROJECT_DIR$/WorkerList.java" beforeDir="false" afterPath="$PROJECT_DIR$/WorkerList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,15 +175,7 @@
       <workItem from="1705301627153" duration="6660000" />
       <workItem from="1705391096475" duration="703000" />
       <workItem from="1705648977189" duration="4079000" />
-      <workItem from="1705903611210" duration="12556000" />
-    </task>
-    <task id="LOCAL-00065" summary="TicTAcToe&#10;Monsret">
-      <option name="closed" value="true" />
-      <created>1701769131239</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1701769131240</updated>
+      <workItem from="1705903611210" duration="12858000" />
     </task>
     <task id="LOCAL-00066" summary="TicTAcToe&#10;Monsret">
       <option name="closed" value="true" />
@@ -570,14 +561,21 @@
       <option name="project" value="LOCAL" />
       <updated>1705918375071</updated>
     </task>
-    <option name="localTasksCounter" value="114" />
+    <task id="LOCAL-00114" summary="WorkerList">
+      <option name="closed" value="true" />
+      <created>1705919409185</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1705919409185</updated>
+    </task>
+    <option name="localTasksCounter" value="115" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="TicTAcToe&#10;Monsret" />
     <MESSAGE value="&#10;Monsters" />
     <MESSAGE value="Zombie" />
     <MESSAGE value="Zoo" />
@@ -602,6 +600,7 @@
     <MESSAGE value="TwoThreads" />
     <MESSAGE value="CalculatePerimeters" />
     <MESSAGE value="Bank" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bank" />
+    <MESSAGE value="WorkerList" />
+    <option name="LAST_COMMIT_MESSAGE" value="WorkerList" />
   </component>
 </project>

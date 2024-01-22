@@ -5,15 +5,20 @@ public class WorkerList {
     private List<String> list1 = new ArrayList<>();
     private List<String> list2 = new ArrayList<>();
 
-    synchronized void addOne() {
-        for (int i = 0; i < 100000; i++) {
-            list1.add("One");
+
+    void addOne() {
+        synchronized (list1) {
+            for (int i = 0; i < 100000; i++) {
+                list1.add("One");
+            }
         }
     }
 
     synchronized void addTwo() {
-        for (int i = 0; i < 100000; i++) {
-            list2.add("Two");
+        synchronized (list2) {
+            for (int i = 0; i < 100000; i++) {
+                list2.add("Two");
+            }
         }
     }
 
