@@ -1,5 +1,5 @@
 public class Processor extends Thread {
-    private boolean running = true;
+    private volatile boolean running = true;
 
     @Override
     public void run() {
