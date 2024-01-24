@@ -1,15 +1,15 @@
-public class AppAtom {
-    private int count = 0;
+import java.util.concurrent.atomic.AtomicInteger;
 
-    void increment() {
-        count++;
-    }
+public class AppAtom {
+    private AtomicInteger count = new AtomicInteger(0);
+
+
 
     private void doWork() throws InterruptedException {
         Thread t1 = new Thread() {
             public void run() {
-                for (int i = 0; i < 100000; i++) {
-                    increment();
+                for (int i = 0; i < 10000; i++) {
+                count.incrementAndGet();
                 }
             }
         };
@@ -17,7 +17,7 @@ public class AppAtom {
         Thread t2 = new Thread() {
             public void run() {
                 for (int i = 0; i < 10000; i++) {
-                    increment();
+                 count.incrementAndGet();
                 }
             }
         };

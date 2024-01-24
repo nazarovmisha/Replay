@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Processor">
-      <change afterPath="$PROJECT_DIR$/AppAtom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="AppAtom" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -179,15 +175,7 @@
       <workItem from="1705648977189" duration="4079000" />
       <workItem from="1705903611210" duration="13489000" />
       <workItem from="1705998562824" duration="7035000" />
-      <workItem from="1706078944372" duration="1924000" />
-    </task>
-    <task id="LOCAL-00070" summary="Zoo">
-      <option name="closed" value="true" />
-      <created>1701850448525</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1701850448525</updated>
+      <workItem from="1706078944372" duration="2641000" />
     </task>
     <task id="LOCAL-00071" summary="Zombie">
       <option name="closed" value="true" />
@@ -573,14 +561,21 @@
       <option name="project" value="LOCAL" />
       <updated>1706010731313</updated>
     </task>
-    <option name="localTasksCounter" value="119" />
+    <task id="LOCAL-00119" summary="AppAtom">
+      <option name="closed" value="true" />
+      <created>1706082978836</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1706082978836</updated>
+    </task>
+    <option name="localTasksCounter" value="120" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Zoo" />
     <MESSAGE value="Fight" />
     <MESSAGE value="TVset" />
     <MESSAGE value="Player" />
@@ -605,6 +600,7 @@
     <MESSAGE value="WorkerList" />
     <MESSAGE value="Typer" />
     <MESSAGE value="Processor" />
-    <option name="LAST_COMMIT_MESSAGE" value="Processor" />
+    <MESSAGE value="AppAtom" />
+    <option name="LAST_COMMIT_MESSAGE" value="AppAtom" />
   </component>
 </project>
