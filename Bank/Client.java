@@ -11,10 +11,10 @@ public class Client extends Thread {
     }
 
     static synchronized void takeMoney() {
-        Bank.money -= 1000;
+        Bank.money.decrementAndGet();
     }
 
     static synchronized void returnMoney() {
-        Bank.money += 1000;
+        Bank.money.incrementAndGet();
     }
 }

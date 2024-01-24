@@ -1,7 +1,9 @@
 package Bank;
 
+import java.util.concurrent.atomic.AtomicInteger;
+
 public class Bank {
-  static   int money = 10000;
+  static AtomicInteger money = new AtomicInteger(10000);
 
     public Bank() {
         new Client().start();
@@ -18,7 +20,7 @@ public class Bank {
         }
     }
 
-    int getMoney() {
+    AtomicInteger getMoney() {
         return money;
     }
 }
