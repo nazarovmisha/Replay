@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="WorkerList">
-      <change afterPath="$PROJECT_DIR$/Typer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Typer/Typer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Processor" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +59,14 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.WorkerList">
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App" />
+      <module name="Replay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bank.Bank" />
       <module name="Replay" />
@@ -73,13 +76,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalculatePerimeters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CalculatePerimeters" />
-      <module name="Replay" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -97,9 +93,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoThreads" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoThreads" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Typer.Main" />
       <module name="Replay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Typer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -113,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.WorkerList" />
         <item itemvalue="Application.Bank" />
         <item itemvalue="Application.ConsoleClock.Main" />
-        <item itemvalue="Application.CalculatePerimeters" />
-        <item itemvalue="Application.TwoThreads" />
       </list>
     </recent_temporary>
   </component>
@@ -178,31 +180,7 @@
       <workItem from="1705391096475" duration="703000" />
       <workItem from="1705648977189" duration="4079000" />
       <workItem from="1705903611210" duration="13489000" />
-      <workItem from="1705998562824" duration="1718000" />
-    </task>
-    <task id="LOCAL-00067" summary="&#10;Monsters">
-      <option name="closed" value="true" />
-      <created>1701777131205</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1701777131205</updated>
-    </task>
-    <task id="LOCAL-00068" summary="&#10;Monsters">
-      <option name="closed" value="true" />
-      <created>1701847225195</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1701847225195</updated>
-    </task>
-    <task id="LOCAL-00069" summary="Worker">
-      <option name="closed" value="true" />
-      <created>1701847643040</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1701847643040</updated>
+      <workItem from="1705998562824" duration="7035000" />
     </task>
     <task id="LOCAL-00070" summary="Zoo">
       <option name="closed" value="true" />
@@ -572,15 +550,37 @@
       <option name="project" value="LOCAL" />
       <updated>1705919461732</updated>
     </task>
-    <option name="localTasksCounter" value="116" />
+    <task id="LOCAL-00116" summary="Typer">
+      <option name="closed" value="true" />
+      <created>1706007165403</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1706007165403</updated>
+    </task>
+    <task id="LOCAL-00117" summary="Processor">
+      <option name="closed" value="true" />
+      <created>1706010652414</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1706010652414</updated>
+    </task>
+    <task id="LOCAL-00118" summary="Processor">
+      <option name="closed" value="true" />
+      <created>1706010731312</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1706010731313</updated>
+    </task>
+    <option name="localTasksCounter" value="119" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&#10;Monsters" />
-    <MESSAGE value="Zombie" />
     <MESSAGE value="Zoo" />
     <MESSAGE value="Fight" />
     <MESSAGE value="TVset" />
@@ -604,6 +604,8 @@
     <MESSAGE value="CalculatePerimeters" />
     <MESSAGE value="Bank" />
     <MESSAGE value="WorkerList" />
-    <option name="LAST_COMMIT_MESSAGE" value="WorkerList" />
+    <MESSAGE value="Typer" />
+    <MESSAGE value="Processor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Processor" />
   </component>
 </project>
