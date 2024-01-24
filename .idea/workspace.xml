@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="AppAtom" />
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Bank">
+      <change afterPath="$PROJECT_DIR$/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +62,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Bank">
+  <component name="RunManager" selected="Application.Food">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
       <module name="Replay" />
@@ -87,6 +90,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Food" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Food" />
+      <module name="Replay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Typer.Main" />
       <module name="Replay" />
@@ -100,20 +110,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WorkerList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WorkerList" />
-      <module name="Replay" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Food" />
         <item itemvalue="Application.Bank" />
         <item itemvalue="Application.AppAtom" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.WorkerList" />
       </list>
     </recent_temporary>
   </component>
@@ -175,15 +178,7 @@
       <workItem from="1705648977189" duration="4079000" />
       <workItem from="1705903611210" duration="13489000" />
       <workItem from="1705998562824" duration="7035000" />
-      <workItem from="1706078944372" duration="3156000" />
-    </task>
-    <task id="LOCAL-00072" summary="Zombie">
-      <option name="closed" value="true" />
-      <created>1701862719049</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1701862719049</updated>
+      <workItem from="1706078944372" duration="5893000" />
     </task>
     <task id="LOCAL-00073" summary="Zombie">
       <option name="closed" value="true" />
@@ -569,7 +564,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706083874007</updated>
     </task>
-    <option name="localTasksCounter" value="121" />
+    <task id="LOCAL-00121" summary="Bank">
+      <option name="closed" value="true" />
+      <created>1706086504502</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1706086504502</updated>
+    </task>
+    <option name="localTasksCounter" value="122" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -596,11 +599,11 @@
     <MESSAGE value="ConsoleClock" />
     <MESSAGE value="TwoThreads" />
     <MESSAGE value="CalculatePerimeters" />
-    <MESSAGE value="Bank" />
     <MESSAGE value="WorkerList" />
     <MESSAGE value="Typer" />
     <MESSAGE value="Processor" />
     <MESSAGE value="AppAtom" />
-    <option name="LAST_COMMIT_MESSAGE" value="AppAtom" />
+    <MESSAGE value="Bank" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bank" />
   </component>
 </project>
