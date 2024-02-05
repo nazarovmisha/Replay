@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Validator">
-      <change afterPath="$PROJECT_DIR$/Speed/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Speed/Run.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Speed/Walk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Human">
+      <change afterPath="$PROJECT_DIR$/ArrayStream.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -64,9 +61,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Human">
-    <configuration name="Food" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Food" />
+  <component name="RunManager" selected="Application.ArrayStream">
+    <configuration name="ArrayStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayStream" />
       <module name="Replay" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -120,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayStream" />
         <item itemvalue="Application.Human" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ThreadPool" />
         <item itemvalue="Application.Pizzeria.Main" />
-        <item itemvalue="Application.Food" />
       </list>
     </recent_temporary>
   </component>
@@ -191,15 +188,7 @@
       <workItem from="1706250346284" duration="5679000" />
       <workItem from="1706688582108" duration="1780000" />
       <workItem from="1706853816874" duration="2449000" />
-      <workItem from="1707115336213" duration="1689000" />
-    </task>
-    <task id="LOCAL-00079" summary="Player">
-      <option name="closed" value="true" />
-      <created>1702464689010</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1702464689010</updated>
+      <workItem from="1707115336213" duration="2485000" />
     </task>
     <task id="LOCAL-00080" summary="Frame">
       <option name="closed" value="true" />
@@ -585,14 +574,21 @@
       <option name="project" value="LOCAL" />
       <updated>1706869907263</updated>
     </task>
-    <option name="localTasksCounter" value="128" />
+    <task id="LOCAL-00128" summary="Human">
+      <option name="closed" value="true" />
+      <created>1707118836444</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1707118836445</updated>
+    </task>
+    <option name="localTasksCounter" value="129" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Frame" />
     <MESSAGE value="CoolPrinter" />
     <MESSAGE value="Ex1" />
     <MESSAGE value="Ex8" />
@@ -617,6 +613,7 @@
     <MESSAGE value="Food" />
     <MESSAGE value="ThreadPool" />
     <MESSAGE value="Validator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Validator" />
+    <MESSAGE value="Human" />
+    <option name="LAST_COMMIT_MESSAGE" value="Human" />
   </component>
 </project>
