@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="ArrayStream">
-      <change beforePath="$PROJECT_DIR$/ArrayStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArrayStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +62,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArrayStream">
+  <component name="RunManager" selected="Application.Opt">
     <configuration name="ArrayStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayStream" />
       <module name="Replay" />
@@ -95,15 +96,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pizzeria.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pizzeria.Main" />
+    <configuration name="Opt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Opt" />
       <module name="Replay" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Pizzeria.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -117,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Opt" />
         <item itemvalue="Application.ArrayStream" />
         <item itemvalue="Application.Human" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ThreadPool" />
-        <item itemvalue="Application.Pizzeria.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -188,15 +183,7 @@
       <workItem from="1706250346284" duration="5679000" />
       <workItem from="1706688582108" duration="1780000" />
       <workItem from="1706853816874" duration="2449000" />
-      <workItem from="1707115336213" duration="2788000" />
-    </task>
-    <task id="LOCAL-00081" summary="CoolPrinter">
-      <option name="closed" value="true" />
-      <created>1702466875568</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1702466875568</updated>
+      <workItem from="1707115336213" duration="3766000" />
     </task>
     <task id="LOCAL-00082" summary="CoolPrinter">
       <option name="closed" value="true" />
@@ -582,7 +569,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707126158704</updated>
     </task>
-    <option name="localTasksCounter" value="130" />
+    <task id="LOCAL-00130" summary="ArrayStream">
+      <option name="closed" value="true" />
+      <created>1707126308552</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1707126308552</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
