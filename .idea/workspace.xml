@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="ArrayStream">
-      <change afterPath="$PROJECT_DIR$/Opt.java" afterDir="false" />
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Opt">
+      <change afterPath="$PROJECT_DIR$/OptAverage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadPool" />
+    <configuration name="OptAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OptAverage" />
       <module name="Replay" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -113,10 +113,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Opt" />
+        <item itemvalue="Application.OptAverage" />
         <item itemvalue="Application.ArrayStream" />
         <item itemvalue="Application.Human" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ThreadPool" />
       </list>
     </recent_temporary>
   </component>
@@ -183,15 +183,7 @@
       <workItem from="1706250346284" duration="5679000" />
       <workItem from="1706688582108" duration="1780000" />
       <workItem from="1706853816874" duration="2449000" />
-      <workItem from="1707115336213" duration="3766000" />
-    </task>
-    <task id="LOCAL-00082" summary="CoolPrinter">
-      <option name="closed" value="true" />
-      <created>1702538955431</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1702538955431</updated>
+      <workItem from="1707115336213" duration="5165000" />
     </task>
     <task id="LOCAL-00083" summary="Ex1">
       <option name="closed" value="true" />
@@ -577,14 +569,21 @@
       <option name="project" value="LOCAL" />
       <updated>1707126308552</updated>
     </task>
-    <option name="localTasksCounter" value="131" />
+    <task id="LOCAL-00131" summary="Opt">
+      <option name="closed" value="true" />
+      <created>1707127517280</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1707127517280</updated>
+    </task>
+    <option name="localTasksCounter" value="132" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Ex1" />
     <MESSAGE value="Ex8" />
     <MESSAGE value="Horse" />
     <MESSAGE value="Pawn" />
@@ -609,6 +608,7 @@
     <MESSAGE value="Validator" />
     <MESSAGE value="Human" />
     <MESSAGE value="ArrayStream" />
-    <option name="LAST_COMMIT_MESSAGE" value="ArrayStream" />
+    <MESSAGE value="Opt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Opt" />
   </component>
 </project>

@@ -2,10 +2,12 @@ import java.util.Optional;
 
 public class Opt {
     public static void main(String[] args) {
-
-        System.out.println(average(4,3,4,1,5,5));
-        System.out.println(average());
+        Optional<Double> average = average();
+        System.out.println(average.orElse(Double.NaN));
+        System.out.println(average.orElseGet(Math::random));
+        System.out.println(average.orElseThrow(IllegalStateException::new));
     }
+
 
     public static Optional<Double> average(int... scores) {
         if (scores.length == 0) {
