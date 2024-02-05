@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="ThreadPool">
-      <change afterPath="$PROJECT_DIR$/Some/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Some/Validator.java" afterDir="false" />
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Validator">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,14 +61,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ThreadPool">
-    <configuration name="AppAtom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AppAtom" />
-      <module name="Replay" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bank.Bank" />
       <module name="Replay" />
@@ -88,6 +78,19 @@
     <configuration name="Food" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Food" />
       <module name="Replay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Some.Main" />
+      <module name="Replay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Some.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -114,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ThreadPool" />
         <item itemvalue="Application.Pizzeria.Main" />
         <item itemvalue="Application.Food" />
         <item itemvalue="Application.Bank" />
-        <item itemvalue="Application.AppAtom" />
       </list>
     </recent_temporary>
   </component>
@@ -184,23 +187,8 @@
       <workItem from="1706166145829" duration="8567000" />
       <workItem from="1706250346284" duration="5679000" />
       <workItem from="1706688582108" duration="1780000" />
-      <workItem from="1706853816874" duration="1066000" />
-    </task>
-    <task id="LOCAL-00077" summary="TVset">
-      <option name="closed" value="true" />
-      <created>1702452817442</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1702452817442</updated>
-    </task>
-    <task id="LOCAL-00078" summary="TVset">
-      <option name="closed" value="true" />
-      <created>1702453301986</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1702453301986</updated>
+      <workItem from="1706853816874" duration="2449000" />
+      <workItem from="1707115336213" duration="308000" />
     </task>
     <task id="LOCAL-00079" summary="Player">
       <option name="closed" value="true" />
@@ -578,14 +566,29 @@
       <option name="project" value="LOCAL" />
       <updated>1706255470889</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="Validator">
+      <option name="closed" value="true" />
+      <created>1706862994568</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1706862994570</updated>
+    </task>
+    <task id="LOCAL-00127" summary="Validator">
+      <option name="closed" value="true" />
+      <created>1706869907263</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1706869907263</updated>
+    </task>
+    <option name="localTasksCounter" value="128" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Player" />
     <MESSAGE value="Frame" />
     <MESSAGE value="CoolPrinter" />
     <MESSAGE value="Ex1" />
@@ -610,6 +613,7 @@
     <MESSAGE value="Bank" />
     <MESSAGE value="Food" />
     <MESSAGE value="ThreadPool" />
-    <option name="LAST_COMMIT_MESSAGE" value="ThreadPool" />
+    <MESSAGE value="Validator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Validator" />
   </component>
 </project>

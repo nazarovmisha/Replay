@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Validator">
+      <change afterPath="$PROJECT_DIR$/Speed/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Speed/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Speed/Walk.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Some/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Some/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,23 +64,23 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bank.Bank" />
+  <component name="RunManager" selected="Application.Human">
+    <configuration name="Food" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Food" />
       <module name="Replay" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Bank.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Food" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Food" />
+    <configuration name="Human" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Speed.Human" />
       <module name="Replay" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Speed.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -118,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Human" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ThreadPool" />
         <item itemvalue="Application.Pizzeria.Main" />
         <item itemvalue="Application.Food" />
-        <item itemvalue="Application.Bank" />
       </list>
     </recent_temporary>
   </component>
@@ -188,15 +190,8 @@
       <workItem from="1706166145829" duration="8567000" />
       <workItem from="1706250346284" duration="5679000" />
       <workItem from="1706688582108" duration="1780000" />
-      <workItem from="1706853816874" duration="2438000" />
-    </task>
-    <task id="LOCAL-00078" summary="TVset">
-      <option name="closed" value="true" />
-      <created>1702453301986</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1702453301986</updated>
+      <workItem from="1706853816874" duration="2449000" />
+      <workItem from="1707115336213" duration="1689000" />
     </task>
     <task id="LOCAL-00079" summary="Player">
       <option name="closed" value="true" />
@@ -582,7 +577,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706862994570</updated>
     </task>
-    <option name="localTasksCounter" value="127" />
+    <task id="LOCAL-00127" summary="Validator">
+      <option name="closed" value="true" />
+      <created>1706869907263</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1706869907263</updated>
+    </task>
+    <option name="localTasksCounter" value="128" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
