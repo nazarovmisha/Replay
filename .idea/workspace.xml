@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="Opt">
-      <change afterPath="$PROJECT_DIR$/OptAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OptionalRandom.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +62,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Opt">
+  <component name="RunManager" selected="Application.OptionalRandom">
     <configuration name="ArrayStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayStream" />
       <module name="Replay" />
@@ -76,19 +76,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Speed.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Some.Main" />
-      <module name="Replay" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Some.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,13 +97,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OptionalRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OptionalRandom" />
+      <module name="Replay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OptionalRandom" />
         <item itemvalue="Application.Opt" />
         <item itemvalue="Application.OptAverage" />
         <item itemvalue="Application.ArrayStream" />
         <item itemvalue="Application.Human" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -183,15 +177,8 @@
       <workItem from="1706250346284" duration="5679000" />
       <workItem from="1706688582108" duration="1780000" />
       <workItem from="1706853816874" duration="2449000" />
-      <workItem from="1707115336213" duration="5165000" />
-    </task>
-    <task id="LOCAL-00083" summary="Ex1">
-      <option name="closed" value="true" />
-      <created>1702540059730</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1702540059730</updated>
+      <workItem from="1707115336213" duration="5987000" />
+      <workItem from="1707201949897" duration="1358000" />
     </task>
     <task id="LOCAL-00084" summary="Ex8">
       <option name="closed" value="true" />
@@ -577,7 +564,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707127517280</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary="Opt">
+      <option name="closed" value="true" />
+      <created>1707130946191</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1707130946191</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
