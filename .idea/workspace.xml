@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="OptionalRandom">
-      <change afterPath="$PROJECT_DIR$/StreamSome.java" afterDir="false" />
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="StreamSome">
+      <change afterPath="$PROJECT_DIR$/Stream2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamSome.java" beforeDir="false" afterPath="$PROJECT_DIR$/StreamSome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,14 +63,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StreamSome">
-    <configuration name="ArrayStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayStream" />
-      <module name="Replay" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Stream2">
     <configuration name="Opt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Opt" />
       <module name="Replay" />
@@ -92,6 +85,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Stream2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stream2" />
+      <module name="Replay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StreamSome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StreamSome" />
       <module name="Replay" />
@@ -101,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Stream2" />
         <item itemvalue="Application.StreamSome" />
         <item itemvalue="Application.OptionalRandom" />
         <item itemvalue="Application.Opt" />
         <item itemvalue="Application.OptAverage" />
-        <item itemvalue="Application.ArrayStream" />
       </list>
     </recent_temporary>
   </component>
@@ -173,15 +173,7 @@
       <workItem from="1706688582108" duration="1780000" />
       <workItem from="1706853816874" duration="2449000" />
       <workItem from="1707115336213" duration="5987000" />
-      <workItem from="1707201949897" duration="6833000" />
-    </task>
-    <task id="LOCAL-00085" summary="Horse">
-      <option name="closed" value="true" />
-      <created>1702546656138</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1702546656138</updated>
+      <workItem from="1707201949897" duration="9173000" />
     </task>
     <task id="LOCAL-00086" summary="Pawn">
       <option name="closed" value="true" />
@@ -567,14 +559,21 @@
       <option name="project" value="LOCAL" />
       <updated>1707207254075</updated>
     </task>
-    <option name="localTasksCounter" value="134" />
+    <task id="LOCAL-00134" summary="StreamSome">
+      <option name="closed" value="true" />
+      <created>1707217503566</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1707217503566</updated>
+    </task>
+    <option name="localTasksCounter" value="135" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Horse" />
     <MESSAGE value="Pawn" />
     <MESSAGE value="Ex" />
     <MESSAGE value="Test" />
@@ -599,6 +598,7 @@
     <MESSAGE value="ArrayStream" />
     <MESSAGE value="Opt" />
     <MESSAGE value="OptionalRandom" />
-    <option name="LAST_COMMIT_MESSAGE" value="OptionalRandom" />
+    <MESSAGE value="StreamSome" />
+    <option name="LAST_COMMIT_MESSAGE" value="StreamSome" />
   </component>
 </project>

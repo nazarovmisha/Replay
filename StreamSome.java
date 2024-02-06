@@ -1,4 +1,5 @@
 import java.util.Arrays;
+import java.util.Comparator;
 import java.util.List;
 import java.util.Optional;
 import java.util.function.Predicate;
@@ -27,7 +28,7 @@ public class StreamSome {
 
 
         Stream<String> st = Stream.of("monkey", "ape", "bonobo");
-        Optional<String> min = st.min((s1, s2) -> s1.length() - s2.length());
+        Optional<String> min = st.min(Comparator.comparingInt(String::length));
         min.ifPresent(System.out::println);
 
         Stream<String> stream = Stream.of("monkey", "ape", "bonobo");
