@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="SortedArrays">
-      <change afterPath="$PROJECT_DIR$/SortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArraysSumm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SortedArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/SortedArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,9 +63,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SortedArrays">
-    <configuration name="Opt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Opt" />
+  <component name="RunManager" selected="Application.ArraysSumm">
+    <configuration name="ArraysSumm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysSumm" />
       <module name="Replay" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArraysSumm" />
         <item itemvalue="Application.SortedArrays" />
         <item itemvalue="Application.Stream2" />
         <item itemvalue="Application.StreamSome" />
         <item itemvalue="Application.OptionalRandom" />
-        <item itemvalue="Application.Opt" />
       </list>
     </recent_temporary>
   </component>
@@ -173,15 +174,7 @@
       <workItem from="1706853816874" duration="2449000" />
       <workItem from="1707115336213" duration="5987000" />
       <workItem from="1707201949897" duration="9358000" />
-      <workItem from="1707286790584" duration="1117000" />
-    </task>
-    <task id="LOCAL-00088" summary="Horse">
-      <option name="closed" value="true" />
-      <created>1702898698413</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1702898698414</updated>
+      <workItem from="1707286790584" duration="1819000" />
     </task>
     <task id="LOCAL-00089" summary="Horse">
       <option name="closed" value="true" />
@@ -567,7 +560,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707287908364</updated>
     </task>
-    <option name="localTasksCounter" value="137" />
+    <task id="LOCAL-00137" summary="SortedArrays">
+      <option name="closed" value="true" />
+      <created>1707288128787</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1707288128787</updated>
+    </task>
+    <option name="localTasksCounter" value="138" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
