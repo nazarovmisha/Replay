@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="StreamSome">
-      <change afterPath="$PROJECT_DIR$/Stream2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SortedArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StreamSome.java" beforeDir="false" afterPath="$PROJECT_DIR$/StreamSome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Stream2">
+  <component name="RunManager" selected="Application.SortedArrays">
     <configuration name="Opt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Opt" />
       <module name="Replay" />
@@ -71,15 +70,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OptAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OptAverage" />
+    <configuration name="OptionalRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OptionalRandom" />
       <module name="Replay" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OptionalRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OptionalRandom" />
+    <configuration name="SortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortedArrays" />
       <module name="Replay" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortedArrays" />
         <item itemvalue="Application.Stream2" />
         <item itemvalue="Application.StreamSome" />
         <item itemvalue="Application.OptionalRandom" />
         <item itemvalue="Application.Opt" />
-        <item itemvalue="Application.OptAverage" />
       </list>
     </recent_temporary>
   </component>
@@ -173,15 +172,8 @@
       <workItem from="1706688582108" duration="1780000" />
       <workItem from="1706853816874" duration="2449000" />
       <workItem from="1707115336213" duration="5987000" />
-      <workItem from="1707201949897" duration="9173000" />
-    </task>
-    <task id="LOCAL-00086" summary="Pawn">
-      <option name="closed" value="true" />
-      <created>1702549460786</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1702549460787</updated>
+      <workItem from="1707201949897" duration="9358000" />
+      <workItem from="1707286790584" duration="805000" />
     </task>
     <task id="LOCAL-00087" summary="Pawn">
       <option name="closed" value="true" />
@@ -567,7 +559,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707217503566</updated>
     </task>
-    <option name="localTasksCounter" value="135" />
+    <task id="LOCAL-00135" summary="StreamSome">
+      <option name="closed" value="true" />
+      <created>1707219902391</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1707219902391</updated>
+    </task>
+    <option name="localTasksCounter" value="136" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
