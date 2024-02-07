@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="StreamSome">
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="SortedArrays">
       <change afterPath="$PROJECT_DIR$/SortedArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -173,15 +173,7 @@
       <workItem from="1706853816874" duration="2449000" />
       <workItem from="1707115336213" duration="5987000" />
       <workItem from="1707201949897" duration="9358000" />
-      <workItem from="1707286790584" duration="805000" />
-    </task>
-    <task id="LOCAL-00087" summary="Pawn">
-      <option name="closed" value="true" />
-      <created>1702554194569</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1702554194569</updated>
+      <workItem from="1707286790584" duration="1117000" />
     </task>
     <task id="LOCAL-00088" summary="Horse">
       <option name="closed" value="true" />
@@ -567,14 +559,21 @@
       <option name="project" value="LOCAL" />
       <updated>1707219902391</updated>
     </task>
-    <option name="localTasksCounter" value="136" />
+    <task id="LOCAL-00136" summary="SortedArrays">
+      <option name="closed" value="true" />
+      <created>1707287908363</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1707287908364</updated>
+    </task>
+    <option name="localTasksCounter" value="137" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Pawn" />
     <MESSAGE value="Ex" />
     <MESSAGE value="Test" />
     <MESSAGE value="TryWithResources" />
@@ -599,6 +598,7 @@
     <MESSAGE value="Opt" />
     <MESSAGE value="OptionalRandom" />
     <MESSAGE value="StreamSome" />
-    <option name="LAST_COMMIT_MESSAGE" value="StreamSome" />
+    <MESSAGE value="SortedArrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="SortedArrays" />
   </component>
 </project>
