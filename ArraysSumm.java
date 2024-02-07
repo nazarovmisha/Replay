@@ -23,9 +23,9 @@ public class ArraysSumm {
     }
 
     public static void streamMultiply() {
-        int multiply = Stream.of("1", "2", "3", "4", "5")
+       int multiply = Stream.of("1", "2", "3", "4", "5")
                 .map(Integer::parseInt)
-                .reduce(1, ((integer, integer2) -> integer * integer2));
+                .reduce( 1,((integer, integer2) -> integer * integer2));
         System.out.println(multiply);
     }
 }
