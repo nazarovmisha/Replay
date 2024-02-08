@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="ArraysSumm">
+      <change afterPath="$PROJECT_DIR$/CollectorsStream.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArraysSumm.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArraysSumm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +62,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArraysSumm">
+  <component name="RunManager" selected="Application.CollectorsStream">
     <configuration name="ArraysSumm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraysSumm" />
       <module name="Replay" />
@@ -70,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OptionalRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OptionalRandom" />
+    <configuration name="CollectorsStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectorsStream" />
       <module name="Replay" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CollectorsStream" />
         <item itemvalue="Application.ArraysSumm" />
         <item itemvalue="Application.SortedArrays" />
         <item itemvalue="Application.Stream2" />
         <item itemvalue="Application.StreamSome" />
-        <item itemvalue="Application.OptionalRandom" />
       </list>
     </recent_temporary>
   </component>
@@ -173,15 +173,8 @@
       <workItem from="1706853816874" duration="2449000" />
       <workItem from="1707115336213" duration="5987000" />
       <workItem from="1707201949897" duration="9358000" />
-      <workItem from="1707286790584" duration="3577000" />
-    </task>
-    <task id="LOCAL-00091" summary="Pawn">
-      <option name="closed" value="true" />
-      <created>1703504642177</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1703504642177</updated>
+      <workItem from="1707286790584" duration="4740000" />
+      <workItem from="1707377207756" duration="5774000" />
     </task>
     <task id="LOCAL-00092" summary="Pawn">
       <option name="closed" value="true" />
@@ -567,7 +560,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707289425498</updated>
     </task>
-    <option name="localTasksCounter" value="140" />
+    <task id="LOCAL-00140" summary="ArraysSumm">
+      <option name="closed" value="true" />
+      <created>1707295086043</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1707295086043</updated>
+    </task>
+    <option name="localTasksCounter" value="141" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
