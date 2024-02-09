@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="ArraysSumm">
-      <change afterPath="$PROJECT_DIR$/CollectorsStream.java" afterDir="false" />
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="CollectorsStream">
+      <change afterPath="$PROJECT_DIR$/HomeStream.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +63,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CollectorsStream">
+  <component name="RunManager" selected="Application.HomeStream">
     <configuration name="ArraysSumm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraysSumm" />
       <module name="Replay" />
@@ -72,6 +73,13 @@
     </configuration>
     <configuration name="CollectorsStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CollectorsStream" />
+      <module name="Replay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HomeStream" />
       <module name="Replay" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,20 +99,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamSome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StreamSome" />
-      <module name="Replay" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HomeStream" />
         <item itemvalue="Application.CollectorsStream" />
         <item itemvalue="Application.ArraysSumm" />
         <item itemvalue="Application.SortedArrays" />
         <item itemvalue="Application.Stream2" />
-        <item itemvalue="Application.StreamSome" />
       </list>
     </recent_temporary>
   </component>
@@ -174,15 +175,8 @@
       <workItem from="1707115336213" duration="5987000" />
       <workItem from="1707201949897" duration="9358000" />
       <workItem from="1707286790584" duration="4740000" />
-      <workItem from="1707377207756" duration="5774000" />
-    </task>
-    <task id="LOCAL-00092" summary="Pawn">
-      <option name="closed" value="true" />
-      <created>1703589433234</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1703589433234</updated>
+      <workItem from="1707377207756" duration="5820000" />
+      <workItem from="1707460456203" duration="4614000" />
     </task>
     <task id="LOCAL-00093" summary="Pawn">
       <option name="closed" value="true" />
@@ -568,14 +562,21 @@
       <option name="project" value="LOCAL" />
       <updated>1707295086043</updated>
     </task>
-    <option name="localTasksCounter" value="141" />
+    <task id="LOCAL-00141" summary="CollectorsStream">
+      <option name="closed" value="true" />
+      <created>1707392498837</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1707392498837</updated>
+    </task>
+    <option name="localTasksCounter" value="142" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Test" />
     <MESSAGE value="TryWithResources" />
     <MESSAGE value="Worker" />
     <MESSAGE value="ArrayList" />
@@ -600,6 +601,7 @@
     <MESSAGE value="StreamSome" />
     <MESSAGE value="SortedArrays" />
     <MESSAGE value="ArraysSumm" />
-    <option name="LAST_COMMIT_MESSAGE" value="ArraysSumm" />
+    <MESSAGE value="CollectorsStream" />
+    <option name="LAST_COMMIT_MESSAGE" value="CollectorsStream" />
   </component>
 </project>
