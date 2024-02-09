@@ -27,6 +27,7 @@ public class StreamSome {
         System.out.println(s.count());
 
 
+
         Stream<String> st = Stream.of("monkey", "ape", "bonobo");
         Optional<String> min = st.min(Comparator.comparingInt(String::length));
         min.ifPresent(System.out::println);
