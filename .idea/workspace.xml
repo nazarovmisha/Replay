@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="OOMExample" />
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="SOMExample">
+      <change afterPath="$PROJECT_DIR$/NMTExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,14 +62,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SOExample">
-    <configuration name="CollectorsStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectorsStream" />
-      <module name="Replay" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.NMTExample">
     <configuration name="HomeStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeStream" />
       <module name="Replay" />
@@ -76,6 +72,13 @@
     </configuration>
     <configuration name="HomeWorkStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HomeWorkStream" />
+      <module name="Replay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NMTExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NMTExample" />
       <module name="Replay" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NMTExample" />
         <item itemvalue="Application.SOExample" />
         <item itemvalue="Application.OOMExample" />
         <item itemvalue="Application.HomeWorkStream" />
         <item itemvalue="Application.HomeStream" />
-        <item itemvalue="Application.CollectorsStream" />
       </list>
     </recent_temporary>
   </component>
@@ -175,14 +178,7 @@
       <workItem from="1707460456203" duration="7281000" />
       <workItem from="1707720142702" duration="1454000" />
       <workItem from="1707822890919" duration="432000" />
-    </task>
-    <task id="LOCAL-00096" summary="TryWithResources">
-      <option name="closed" value="true" />
-      <created>1704444197958</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1704444197958</updated>
+      <workItem from="1707895079913" duration="1848000" />
     </task>
     <task id="LOCAL-00097" summary="Worker">
       <option name="closed" value="true" />
@@ -568,14 +564,32 @@
       <option name="project" value="LOCAL" />
       <updated>1707823110705</updated>
     </task>
-    <option name="localTasksCounter" value="145" />
+    <task id="LOCAL-00145" summary="SOMExample">
+      <option name="closed" value="true" />
+      <created>1707895340970</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1707895340970</updated>
+    </task>
+    <option name="localTasksCounter" value="146" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Car" />
     <MESSAGE value="StockAccount" />
     <MESSAGE value="CheckResults" />
     <MESSAGE value="ConsoleClock" />
@@ -600,6 +614,7 @@
     <MESSAGE value="HomeStream" />
     <MESSAGE value="HomeWorkStream" />
     <MESSAGE value="OOMExample" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOMExample" />
+    <MESSAGE value="SOMExample" />
+    <option name="LAST_COMMIT_MESSAGE" value="SOMExample" />
   </component>
 </project>
