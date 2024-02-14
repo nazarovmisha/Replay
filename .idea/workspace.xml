@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="HomeWorkStream">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="OOMExample" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,14 +59,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.OOMExample">
-    <configuration name="ArraysSumm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysSumm" />
-      <module name="Replay" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SOExample">
     <configuration name="CollectorsStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CollectorsStream" />
       <module name="Replay" />
@@ -97,13 +88,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SOExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SOExample" />
+      <module name="Replay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SOExample" />
         <item itemvalue="Application.OOMExample" />
         <item itemvalue="Application.HomeWorkStream" />
         <item itemvalue="Application.HomeStream" />
         <item itemvalue="Application.CollectorsStream" />
-        <item itemvalue="Application.ArraysSumm" />
       </list>
     </recent_temporary>
   </component>
@@ -176,14 +174,7 @@
       <workItem from="1707377207756" duration="5820000" />
       <workItem from="1707460456203" duration="7281000" />
       <workItem from="1707720142702" duration="1454000" />
-    </task>
-    <task id="LOCAL-00095" summary="Test">
-      <option name="closed" value="true" />
-      <created>1704443775345</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1704443775345</updated>
+      <workItem from="1707822890919" duration="432000" />
     </task>
     <task id="LOCAL-00096" summary="TryWithResources">
       <option name="closed" value="true" />
@@ -569,14 +560,21 @@
       <option name="project" value="LOCAL" />
       <updated>1707469591891</updated>
     </task>
-    <option name="localTasksCounter" value="144" />
+    <task id="LOCAL-00144" summary="OOMExample">
+      <option name="closed" value="true" />
+      <created>1707823110705</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1707823110705</updated>
+    </task>
+    <option name="localTasksCounter" value="145" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ArrayList" />
     <MESSAGE value="Car" />
     <MESSAGE value="StockAccount" />
     <MESSAGE value="CheckResults" />
@@ -601,6 +599,7 @@
     <MESSAGE value="CollectorsStream" />
     <MESSAGE value="HomeStream" />
     <MESSAGE value="HomeWorkStream" />
-    <option name="LAST_COMMIT_MESSAGE" value="HomeWorkStream" />
+    <MESSAGE value="OOMExample" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOMExample" />
   </component>
 </project>
