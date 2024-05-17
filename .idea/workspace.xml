@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="SOMExample">
-      <change afterPath="$PROJECT_DIR$/NMTExample.java" afterDir="false" />
+    <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="NMTExample">
+      <change afterPath="$PROJECT_DIR$/Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WooHoo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,21 +64,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NMTExample">
-    <configuration name="HomeStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeStream" />
-      <module name="Replay" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HomeWorkStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HomeWorkStream" />
-      <module name="Replay" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.WooHoo">
     <configuration name="NMTExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NMTExample" />
       <module name="Replay" />
@@ -91,6 +79,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Reader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reader" />
+      <module name="Replay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SOExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SOExample" />
       <module name="Replay" />
@@ -98,13 +93,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WooHoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WooHoo" />
+      <module name="Replay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WooHoo" />
+        <item itemvalue="Application.Reader" />
         <item itemvalue="Application.NMTExample" />
         <item itemvalue="Application.SOExample" />
         <item itemvalue="Application.OOMExample" />
-        <item itemvalue="Application.HomeWorkStream" />
-        <item itemvalue="Application.HomeStream" />
       </list>
     </recent_temporary>
   </component>
@@ -178,15 +180,10 @@
       <workItem from="1707460456203" duration="7281000" />
       <workItem from="1707720142702" duration="1454000" />
       <workItem from="1707822890919" duration="432000" />
-      <workItem from="1707895079913" duration="1848000" />
-    </task>
-    <task id="LOCAL-00097" summary="Worker">
-      <option name="closed" value="true" />
-      <created>1705055392781</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1705055392781</updated>
+      <workItem from="1707895079913" duration="1898000" />
+      <workItem from="1709024016326" duration="823000" />
+      <workItem from="1709104040121" duration="271000" />
+      <workItem from="1715938639851" duration="4069000" />
     </task>
     <task id="LOCAL-00098" summary="Worker">
       <option name="closed" value="true" />
@@ -572,7 +569,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707895340970</updated>
     </task>
-    <option name="localTasksCounter" value="146" />
+    <task id="LOCAL-00146" summary="NMTExample">
+      <option name="closed" value="true" />
+      <created>1707910010282</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1707910010282</updated>
+    </task>
+    <option name="localTasksCounter" value="147" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -590,7 +595,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="StockAccount" />
     <MESSAGE value="CheckResults" />
     <MESSAGE value="ConsoleClock" />
     <MESSAGE value="TwoThreads" />
@@ -615,6 +619,7 @@
     <MESSAGE value="HomeWorkStream" />
     <MESSAGE value="OOMExample" />
     <MESSAGE value="SOMExample" />
-    <option name="LAST_COMMIT_MESSAGE" value="SOMExample" />
+    <MESSAGE value="NMTExample" />
+    <option name="LAST_COMMIT_MESSAGE" value="NMTExample" />
   </component>
 </project>
