@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29480bcc-4b67-4baa-9e36-01ed31320674" name="Changes" comment="NMTExample">
-      <change afterPath="$PROJECT_DIR$/FileReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/InputOutput.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reader.java" beforeDir="false" afterPath="$PROJECT_DIR$/Reader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Replay/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,9 +62,16 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FileReader">
+  <component name="RunManager" selected="Application.InputOutput">
     <configuration name="FileReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FileReader" />
+      <module name="Replay" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InputOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InputOutput" />
       <module name="Replay" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -87,13 +91,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SOExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SOExample" />
-      <module name="Replay" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WooHoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="WooHoo" />
       <module name="Replay" />
@@ -103,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InputOutput" />
         <item itemvalue="Application.FileReader" />
         <item itemvalue="Application.Reader" />
         <item itemvalue="Application.WooHoo" />
         <item itemvalue="Application.NMTExample" />
-        <item itemvalue="Application.SOExample" />
       </list>
     </recent_temporary>
   </component>
@@ -186,15 +183,8 @@
       <workItem from="1709104040121" duration="271000" />
       <workItem from="1715938639851" duration="4341000" />
       <workItem from="1716190462254" duration="27000" />
-      <workItem from="1716190524011" duration="4088000" />
-    </task>
-    <task id="LOCAL-00099" summary="ArrayList">
-      <option name="closed" value="true" />
-      <created>1705304807072</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1705304807072</updated>
+      <workItem from="1716190524011" duration="4116000" />
+      <workItem from="1716291348202" duration="1024000" />
     </task>
     <task id="LOCAL-00100" summary="ArrayList">
       <option name="closed" value="true" />
@@ -580,7 +570,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715946069826</updated>
     </task>
-    <option name="localTasksCounter" value="148" />
+    <task id="LOCAL-00148" summary="NMTExample">
+      <option name="closed" value="true" />
+      <created>1716205097697</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1716205097697</updated>
+    </task>
+    <option name="localTasksCounter" value="149" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
